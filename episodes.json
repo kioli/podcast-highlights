@@ -1,5 +1,46 @@
 [
   {
+    "title": "Refactoring Podcast \u2014 Leading Beyond the Framework \ud83e\udded \u2014 with Richard Hughes-Jones",
+    "description": "Highlights from Refactoring Podcast: Leading Beyond the Framework \ud83e\udded \u2014 with Richard Hughes-Jones",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-06-refactoring-podcast/2026-03-06-Leading-Beyond-the-Framework-with-Richard-Hughes-Jones-highlights.mp3",
+    "audio_size": 2481049,
+    "pub_date": "Wed, 18 Mar 2026 23:34:45 +0000",
+    "duration_seconds": 155.036735,
+    "date": "2026-03-06",
+    "highlights": [
+      {
+        "start": 129.0,
+        "end": 159.0,
+        "title": "Coaching Journey",
+        "description": "The guest shares his experience of writing an article with a former coaching client, providing an honest account of their coaching journey."
+      },
+      {
+        "start": 341.0,
+        "end": 371.0,
+        "title": "Non-Technical Advantage",
+        "description": "The guest explains how not having a strong technical background can be an advantage in coaching tech leaders, allowing him to focus on other aspects of their development."
+      },
+      {
+        "start": 576.0,
+        "end": 606.0,
+        "title": "Leadership Challenges",
+        "description": "The guest discusses the challenges faced by senior leaders in tech, including ambiguity, complexity, and uncertainty, and how these challenges are still relevant despite the current changes in the tech industry."
+      },
+      {
+        "start": 739.0,
+        "end": 769.0,
+        "title": "Embracing Uncertainty",
+        "description": "The guest acknowledges that humans are not wired for uncertainty and that it's hard to articulate and explain how to be comfortable with ambiguity, but recognizes its importance for leaders."
+      },
+      {
+        "start": 878.0,
+        "end": 908.0,
+        "title": "Leadership Development",
+        "description": "The guest reflects on the journey of individual contributors to leaders, and how there's a point where conventional frameworks and models may not be enough, requiring a different approach to development."
+      }
+    ]
+  },
+  {
     "title": "The Diary Of A CEO \u2014 Daniel Priestley: Plumbers Will Earn More Than Lawyers! I Predicted 2008, Now I'm Warning About 2029",
     "description": "Highlights from The Diary Of A CEO: Daniel Priestley: Plumbers Will Earn More Than Lawyers! I Predicted 2008, Now I'm Warning About 2029",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-16-the-diary-of-a-ceo/2026-03-16-Daniel-Priestley-Plumbers-Will-Earn-More-Than-Lawyers-I-Predicted-2008-Now-Im-Warning-About-2029-highlights.mp3",
