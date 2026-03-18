@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "title": "HBR Ideacast \u2014 The Shifting Relationship Between Business and the U.S. Government",
+    "description": "Highlights from HBR Ideacast: The Shifting Relationship Between Business and the U.S. Government",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-17-hbr-ideacast/2026-03-17-The-Shifting-Relationship-Between-Business-and-the-US-Government-highlights.mp3",
+    "audio_size": 2577180,
+    "pub_date": "Wed, 18 Mar 2026 22:01:00 +0000",
+    "duration_seconds": 161.044898,
+    "date": "2026-03-17",
+    "highlights": [
+      {
+        "start": 133.0,
+        "end": 163.0,
+        "title": "Pensive C-Suite",
+        "description": "The American C-suite is pensive, with strong opinions but a fear of vindictiveness, according to Jeffrey Sonnenfeld."
+      },
+      {
+        "start": 339.0,
+        "end": 369.0,
+        "title": "CEO Dilemma",
+        "description": "CEOs face a dilemma in navigating political issues, where they must balance their company's interests with the need to speak out on social issues."
+      },
+      {
+        "start": 671.0,
+        "end": 703.0,
+        "title": "Engaging Trump",
+        "description": "Jeffrey Sonnenfeld advises that CEOs can effectively engage with President Trump by presenting a united front and using their collective voice to influence policy."
+      },
+      {
+        "start": 737.0,
+        "end": 771.0,
+        "title": "Social Capital",
+        "description": "Alexis de Tocqueville's concept of social capital is highlighted, where business leaders play a crucial role in defining truth and upholding democracy by speaking out on important issues."
+      },
+      {
+        "start": 802.0,
+        "end": 832.0,
+        "title": "CEO Responsibility",
+        "description": "CEOs have a responsibility to speak out on social issues that affect their employees, consumers, and shareholders, and to use their trusted voices to endorse the truth and support what is right."
+      }
+    ]
+  }
+]

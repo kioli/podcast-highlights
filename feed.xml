@@ -10,5 +10,21 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
+    <item>
+      <title>HBR Ideacast — The Shifting Relationship Between Business and the U.S. Government</title>
+      <description>Highlights from HBR Ideacast: The Shifting Relationship Between Business and the U.S. Government
+
+Highlights:
+- Pensive C-Suite: The American C-suite is pensive, with strong opinions but a fear of vindictiveness, according to Jeffrey Sonnenfeld.
+- CEO Dilemma: CEOs face a dilemma in navigating political issues, where they must balance their company&apos;s interests with the need to speak out on social issues.
+- Engaging Trump: Jeffrey Sonnenfeld advises that CEOs can effectively engage with President Trump by presenting a united front and using their collective voice to influence policy.
+- Social Capital: Alexis de Tocqueville&apos;s concept of social capital is highlighted, where business leaders play a crucial role in defining truth and upholding democracy by speaking out on important issues.
+- CEO Responsibility: CEOs have a responsibility to speak out on social issues that affect their employees, consumers, and shareholders, and to use their trusted voices to endorse the truth and support what is right.
+</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-17-hbr-ideacast/2026-03-17-The-Shifting-Relationship-Between-Business-and-the-US-Government-highlights.mp3" length="2577180" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Mar 2026 22:01:00 +0000</pubDate>
+      <itunes:duration>161</itunes:duration>
+      <itunes:summary>Highlights from HBR Ideacast: The Shifting Relationship Between Business and the U.S. Government</itunes:summary>
+    </item>
   </channel>
 </rss>
