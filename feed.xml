@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+  <channel>
+    <title>Podcast Highlights</title>
+    <description>Auto-generated highlights from my podcast subscriptions. The best 5-10 minutes from each episode.</description>
+    <language>en</language>
+    <itunes:author>Lorenzo</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://kioli.github.io/podcast-highlights/</link>
+  </channel>
+</rss>
