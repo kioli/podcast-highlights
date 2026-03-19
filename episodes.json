@@ -1,5 +1,46 @@
 [
   {
+    "title": "Hidden Brain \u2014 Rethinking Depression",
+    "description": "Highlights from Hidden Brain: Rethinking Depression",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-16-hidden-brain/2026-03-16-Rethinking-Depression-highlights.mp3",
+    "audio_size": 2481049,
+    "pub_date": "Thu, 19 Mar 2026 00:50:30 +0000",
+    "duration_seconds": 155.036735,
+    "date": "2026-03-16",
+    "highlights": [
+      {
+        "start": 128.0,
+        "end": 158.0,
+        "title": "Introduction To Depression",
+        "description": "The episode introduces the concept of depression and challenges the traditional view that it is a defect or a disease."
+      },
+      {
+        "start": 818.0,
+        "end": 848.0,
+        "title": "Prevailing Model Of Depression",
+        "description": "John Rottenberg describes the prevailing model of depression as a fundamental defect inside the depressed person, which may be in their mind, brain, or interactions with others."
+      },
+      {
+        "start": 1201.0,
+        "end": 1231.0,
+        "title": "Depression As Adaptation",
+        "description": "John Rottenberg believes that the capacity for depression is wired into the brain and is an important adaptation that allows individuals to integrate inputs and make decisions about their environment."
+      },
+      {
+        "start": 454.0,
+        "end": 484.0,
+        "title": "Personal Experience With Depression",
+        "description": "John Rottenberg shares his personal experience with depression, including his initial symptoms, diagnosis, and struggles with treatment."
+      },
+      {
+        "start": 1063.0,
+        "end": 1093.0,
+        "title": "Limitations Of Disease Model",
+        "description": "John Rottenberg discusses the limitations of the disease model of depression, including the lack of a clear biological cause and the inability to measure serotonin levels in the brain."
+      }
+    ]
+  },
+  {
     "title": "Manager Tools \u2014 The Difference Between Line And Staff Leadership",
     "description": "Highlights from Manager Tools: The Difference Between Line And Staff Leadership",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-16-manager-tools/2026-03-16-The-Difference-Between-Line-And-Staff-Leadership-highlights.mp3",
