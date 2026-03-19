@@ -10,5 +10,26 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
+    <item>
+      <title>The Diary Of A CEO — Manipulation Expert: How To Influence Anyone &amp; Make Them Do Exactly What You Want! - Chase Hughes</title>
+      <description>Highlights from The Diary Of A CEO: Manipulation Expert: How To Influence Anyone &amp; Make Them Do Exactly What You Want! - Chase Hughes
+
+Highlights:
+- Influencing Humans: The speaker discusses the importance of understanding how to influence human beings, which can be applied to various professions and aspects of life.
+- Guiding Decisions: The speaker talks about helping people understand how to guide human decision and have great conversations that are very influential.
+- PCP Model: The speaker explains the PCP model, a three-step cascade that happens inside the human brain when we get influenced, and its significance in understanding human behavior.
+- Shifting Perception: The speaker discusses the importance of shifting perception and how it can be done by acknowledging someone&apos;s point of view and then introducing a new one.
+- Calling Out Scripts: The speaker talks about the power of calling out scripts that run inside people&apos;s heads and how it can transform their behavior.
+- Hypnosis Example: The speaker shares an example of a stage hypnosis show where a person is made to do silly things, illustrating the power of context and perception.
+- Context and Perception: The speaker discusses how context and perception can be used to influence people&apos;s behavior and decision-making.
+- Shifting Context: The speaker talks about the importance of shifting context and how it can be done in various situations, such as in a conversation with a kid or in a business meeting.
+- Radicalization: The speaker discusses how modifying perception and context can be used to radicalize people and make them do things they wouldn&apos;t normally do.
+- Following Curiosity: The speaker talks about the importance of following one&apos;s curiosity and not being trapped by external pressure, and how this approach can lead to more open and meaningful conversations.
+</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-19-the-diary-of-a-ceo/2026-03-19-Manipulation-Expert-How-To-Influence-Anyone-Make-Them-Do-Exactly-What-You-Want-Chase-Hughes-highlights.mp3" length="12160984" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Mar 2026 12:47:00 +0000</pubDate>
+      <itunes:duration>760</itunes:duration>
+      <itunes:summary>Highlights from The Diary Of A CEO: Manipulation Expert: How To Influence Anyone &amp; Make Them Do Exactly What You Want! - Chase Hughes</itunes:summary>
+    </item>
   </channel>
 </rss>
