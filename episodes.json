@@ -1,5 +1,40 @@
 [
   {
+    "title": "Manager Tools \u2014 The Difference Between Line And Staff Leadership",
+    "description": "Highlights from Manager Tools: The Difference Between Line And Staff Leadership",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-16-manager-tools/2026-03-16-The-Difference-Between-Line-And-Staff-Leadership-highlights.mp3",
+    "audio_size": 4865088,
+    "pub_date": "Thu, 19 Mar 2026 14:10:05 +0000",
+    "duration_seconds": 304.039184,
+    "date": "2026-03-16",
+    "highlights": [
+      {
+        "start": 142.0,
+        "end": 217.0,
+        "title": "Line Staff Difference",
+        "description": "The speakers discuss the difference between line and staff managers, and how line managers should prioritize demands from line leaders over staff leaders."
+      },
+      {
+        "start": 331.0,
+        "end": 406.0,
+        "title": "Staff Leadership Examples",
+        "description": "The speakers provide examples of staff leadership roles, such as human resources, finance, and IT, and explain how these roles differ from line leadership roles."
+      },
+      {
+        "start": 588.0,
+        "end": 663.0,
+        "title": "Prioritizing Demands",
+        "description": "The speakers discuss the importance of prioritizing demands from line leaders, and how to handle situations where a line leader tasks a manager with a request that may not be feasible."
+      },
+      {
+        "start": 894.0,
+        "end": 969.0,
+        "title": "Deprioritizing Staff Demands",
+        "description": "The speakers explain why managers should deprioritize demands from staff organizations, and how this approach can help managers manage their workload and prioritize tasks effectively."
+      }
+    ]
+  },
+  {
     "title": "Refactoring Podcast \u2014 Leading Beyond the Framework \ud83e\udded \u2014 with Richard Hughes-Jones",
     "description": "Highlights from Refactoring Podcast: Leading Beyond the Framework \ud83e\udded \u2014 with Richard Hughes-Jones",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-06-refactoring-podcast/2026-03-06-Leading-Beyond-the-Framework-with-Richard-Hughes-Jones-highlights.mp3",
