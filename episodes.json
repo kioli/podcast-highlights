@@ -1,5 +1,46 @@
 [
   {
+    "title": "Refactoring Podcast \u2014 Leading Beyond the Framework \ud83e\udded \u2014 with Richard Hughes-Jones",
+    "description": "Highlights from Refactoring Podcast: Leading Beyond the Framework \ud83e\udded \u2014 with Richard Hughes-Jones",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-06-refactoring-podcast/2026-03-06-Leading-Beyond-the-Framework-with-Richard-Hughes-Jones-highlights.mp3",
+    "audio_size": 6080932,
+    "pub_date": "Thu, 19 Mar 2026 13:14:26 +0000",
+    "duration_seconds": 380.029388,
+    "date": "2026-03-06",
+    "highlights": [
+      {
+        "start": 129.0,
+        "end": 204.0,
+        "title": "Coaching Journey",
+        "description": "The guest shares his experience of writing an article with a former coaching client, which led to a unique and honest account of their coaching journey."
+      },
+      {
+        "start": 341.0,
+        "end": 416.0,
+        "title": "Non Technical Advantage",
+        "description": "The guest explains how not having a strong technical background can be an advantage in coaching tech leaders, as it allows him to focus on other aspects of their development."
+      },
+      {
+        "start": 541.0,
+        "end": 616.0,
+        "title": "Common Challenges",
+        "description": "The guest discusses the common challenges faced by senior leaders in tech, including ambiguity, complexity, and uncertainty, which are exacerbated by the current pace of change in the industry."
+      },
+      {
+        "start": 707.0,
+        "end": 782.0,
+        "title": "Ambiguity and Uncertainty",
+        "description": "The guest highlights the difficulty of dealing with ambiguity and uncertainty, and how it requires leaders to be comfortable with not having all the answers, which can be a challenging mindset to adopt."
+      },
+      {
+        "start": 878.0,
+        "end": 953.0,
+        "title": "Leadership Development",
+        "description": "The guest explains how traditional leadership development frameworks can only take leaders so far, and that further growth requires a more nuanced understanding of oneself and the ability to navigate complex situations."
+      }
+    ]
+  },
+  {
     "title": "The Diary Of A CEO \u2014 Manipulation Expert: How To Influence Anyone & Make Them Do Exactly What You Want! - Chase Hughes",
     "description": "Highlights from The Diary Of A CEO: Manipulation Expert: How To Influence Anyone & Make Them Do Exactly What You Want! - Chase Hughes",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-19-the-diary-of-a-ceo/2026-03-19-Manipulation-Expert-How-To-Influence-Anyone-Make-Them-Do-Exactly-What-You-Want-Chase-Hughes-highlights.mp3",
