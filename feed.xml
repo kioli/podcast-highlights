@@ -11,6 +11,22 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Refactoring Podcast — What Comes After the IDE 🖥 — with Amelia Wattenberger</title>
+      <description>Highlights from Refactoring Podcast: What Comes After the IDE 🖥 — with Amelia Wattenberger
+
+Highlights:
+- Rebuilding IDE: Amelia Wattenberger shares her experience of rebuilding the IDE with AI agents, which was previously thought to be a ridiculous task, but now possible with the leverage of AI.
+- Agent Orchestration: Amelia discusses the challenges of orchestrating AI agents, including getting the right context through the right agent at the right time, and how Intent aims to solve these problems.
+- Tweakable Agents: Amelia explains how Intent allows users to tweak the behavior of agents, including changing the prompts and personas, to suit their needs and work style.
+- Spec-Driven Development: Amelia discusses how Intent&apos;s approach to spec-driven development differs from traditional methods, with a focus on treating specs as a control plane for steering agents and continuously updating them.
+- Agent Collaboration: Amelia highlights the benefits of treating specs as a control plane, including rich affordances like subtasks and real-time updates, which enable more effective collaboration between humans and AI agents.
+</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-20-refactoring-podcast/2026-03-20-What-Comes-After-the-IDE-with-Amelia-Wattenberger-highlights.mp3" length="6144879" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Mar 2026 07:57:10 +0000</pubDate>
+      <itunes:duration>384</itunes:duration>
+      <itunes:summary>Highlights from Refactoring Podcast: What Comes After the IDE 🖥 — with Amelia Wattenberger</itunes:summary>
+    </item>
+    <item>
       <title>The Diary Of A CEO — Most Replayed Moment: The Direct Path To Purpose And Happiness! These 2 Decisions Matter Most</title>
       <description>Highlights from The Diary Of A CEO: Most Replayed Moment: The Direct Path To Purpose And Happiness! These 2 Decisions Matter Most
 

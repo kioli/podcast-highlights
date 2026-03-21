@@ -1,5 +1,61 @@
 [
   {
+    "title": "Refactoring Podcast \u2014 What Comes After the IDE \ud83d\udda5 \u2014 with Amelia Wattenberger",
+    "description": "Highlights from Refactoring Podcast: What Comes After the IDE \ud83d\udda5 \u2014 with Amelia Wattenberger",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-20-refactoring-podcast/2026-03-20-What-Comes-After-the-IDE-with-Amelia-Wattenberger-highlights.mp3",
+    "audio_size": 6144879,
+    "pub_date": "Sat, 21 Mar 2026 07:57:10 +0000",
+    "duration_seconds": 384.026122,
+    "date": "2026-03-20",
+    "highlights": [
+      {
+        "start": 135.0,
+        "end": 210.0,
+        "title": "Rebuilding IDE",
+        "description": "Amelia Wattenberger shares her experience of rebuilding the IDE with AI agents, which was previously thought to be a ridiculous task, but now possible with the leverage of AI."
+      },
+      {
+        "start": 304.0,
+        "end": 380.0,
+        "title": "Agent Orchestration",
+        "description": "Amelia discusses the challenges of orchestrating AI agents, including getting the right context through the right agent at the right time, and how Intent aims to solve these problems."
+      },
+      {
+        "start": 529.0,
+        "end": 605.0,
+        "title": "Tweakable Agents",
+        "description": "Amelia explains how Intent allows users to tweak the behavior of agents, including changing the prompts and personas, to suit their needs and work style."
+      },
+      {
+        "start": 734.0,
+        "end": 810.0,
+        "title": "Spec-Driven Development",
+        "description": "Amelia discusses how Intent's approach to spec-driven development differs from traditional methods, with a focus on treating specs as a control plane for steering agents and continuously updating them."
+      },
+      {
+        "start": 904.0,
+        "end": 980.0,
+        "title": "Agent Collaboration",
+        "description": "Amelia highlights the benefits of treating specs as a control plane, including rich affordances like subtasks and real-time updates, which enable more effective collaboration between humans and AI agents."
+      }
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "The episode touches on people management and career growth through the lens of working with AI agents, which aligns with HIGH and MEDIUM priority interests",
+    "top_topics": [
+      "People management",
+      "Career growth",
+      "Product & strategy",
+      "Engineering culture"
+    ],
+    "actionable_items": [
+      "Develop managerial skills, such as delegating work and bottling judgment into procedures, to work effectively with AI agents",
+      "Explore new primitives and tools that can help developers work more effectively with AI agents",
+      "Create an experimentation environment for fast and easy experimentation with different paradigms and approaches",
+      "Focus on specs and control planes for steering AI agents",
+      "Foster specialization in areas like domain knowledge, product domain knowledge, and transversal specialization"
+    ]
+  },
+  {
     "title": "The Diary Of A CEO \u2014 Most Replayed Moment: The Direct Path To Purpose And Happiness! These 2 Decisions Matter Most",
     "description": "Highlights from The Diary Of A CEO: Most Replayed Moment: The Direct Path To Purpose And Happiness! These 2 Decisions Matter Most",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/2026-03-20-the-diary-of-a-ceo/2026-03-20-Most-Replayed-Moment-The-Direct-Path-To-Purpose-And-Happiness-These-2-Decisions-Matter-Most-highlights.mp3",
