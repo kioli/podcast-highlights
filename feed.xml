@@ -3,126 +3,12 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      version="2.0">
   <channel>
-    <title>Podcast Highlights</title>
-    <description>Auto-generated highlights from my podcast subscriptions. The best 5-10 minutes from each episode.</description>
+    <title>Daily Podcast Briefing</title>
+    <description>Your personal daily podcast briefing. Key takeaways, insights, and actionable items from the best podcast episodes, ranked by relevance.</description>
     <language>en</language>
     <itunes:author>Lorenzo</itunes:author>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
-    <item>
-      <title>Refactoring Podcast — What Comes After the IDE 🖥 — with Amelia Wattenberger</title>
-      <description>Highlights from Refactoring Podcast: What Comes After the IDE 🖥 — with Amelia Wattenberger
-
-Highlights:
-- Rebuilding IDE: Amelia Wattenberger shares her experience of rebuilding the IDE with AI agents, which was previously thought to be a ridiculous task, but now possible with the leverage of AI.
-- Agent Orchestration: Amelia discusses the challenges of orchestrating AI agents, including getting the right context through the right agent at the right time, and how Intent aims to solve these problems.
-- Tweakable Agents: Amelia explains how Intent allows users to tweak the behavior of agents, including changing the prompts and personas, to suit their needs and work style.
-- Spec-Driven Development: Amelia discusses how Intent&apos;s approach to spec-driven development differs from traditional methods, with a focus on treating specs as a control plane for steering agents and continuously updating them.
-- Agent Collaboration: Amelia highlights the benefits of treating specs as a control plane, including rich affordances like subtasks and real-time updates, which enable more effective collaboration between humans and AI agents.
-</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-20-refactoring-podcast/2026-03-20-What-Comes-After-the-IDE-with-Amelia-Wattenberger-highlights.mp3" length="6144879" type="audio/mpeg"/>
-      <pubDate>Sat, 21 Mar 2026 07:57:10 +0000</pubDate>
-      <itunes:duration>384</itunes:duration>
-      <itunes:summary>Highlights from Refactoring Podcast: What Comes After the IDE 🖥 — with Amelia Wattenberger</itunes:summary>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Most Replayed Moment: The Direct Path To Purpose And Happiness! These 2 Decisions Matter Most</title>
-      <description>Highlights from The Diary Of A CEO: Most Replayed Moment: The Direct Path To Purpose And Happiness! These 2 Decisions Matter Most
-
-Highlights:
-- Mismatch Hypothesis: The mismatch hypothesis suggests that many problems arise from a mismatch between our ancestral past and modern world, leading to maladaptive behaviors.
-- Happiness Code: The speaker explains that life is a statistical game and that making good choices and adopting good mindsets can increase one&apos;s chances of achieving happiness, despite the influence of genetics.
-- Evolutionary Basis: The speaker discusses the evolutionary basis of meaning and purpose, arguing that sentient beings need more than just survival and reproduction to elevate their consciousness and find purpose in life.
-- Creativity And Happiness: The speaker explains that creativity is associated with happiness and that certain professions, such as artists and authors, may have a direct path to purpose and meaning due to their ability to instantiate their creative impulse.
-</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-20-the-diary-of-a-ceo/2026-03-20-Most-Replayed-Moment-The-Direct-Path-To-Purpose-And-Happiness-These-2-Decisions-Matter-Most-highlights.mp3" length="4865088" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Mar 2026 08:10:24 +0000</pubDate>
-      <itunes:duration>304</itunes:duration>
-      <itunes:summary>Highlights from The Diary Of A CEO: Most Replayed Moment: The Direct Path To Purpose And Happiness! These 2 Decisions Matter Most</itunes:summary>
-    </item>
-    <item>
-      <title>HBR Ideacast — Strategy Summit 2026: Why AI Means Radical Change</title>
-      <description>Highlights from HBR Ideacast: Strategy Summit 2026: Why AI Means Radical Change
-
-Highlights:
-- 30% Rule Explained: The 30% rule is a proportionality that says individuals and organizations need a minimum technology and change capability threshold to contribute to a future with data, algorithms, and AI.
-- AI Enables Scale: AI enables scale, speed, and scope, allowing companies to serve millions of people quickly and make decisions faster.
-- Successful AI Adoption: Companies like Moderna, Domino&apos;s Pizza, and Rakuten have successfully adopted AI, achieving significant results such as increased productivity and revenue growth.
-- AI Driven Sales: AI-driven sales, such as those seen on TikTok, can lead to extraordinary sales figures, but require companies to be structured to deliver on these sales, with data integration and inventory management being key.
-</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-19-hbr-ideacast/2026-03-19-Strategy-Summit-2026-Why-AI-Means-Radical-Change-highlights.mp3" length="4865088" type="audio/mpeg"/>
-      <pubDate>Fri, 20 Mar 2026 07:58:28 +0000</pubDate>
-      <itunes:duration>304</itunes:duration>
-      <itunes:summary>Highlights from HBR Ideacast: Strategy Summit 2026: Why AI Means Radical Change</itunes:summary>
-    </item>
-    <item>
-      <title>The Peter Attia Drive — #384 - Special episode — Obicetrapib: The CETP inhibitor with cardiovascular benefits and potential Alzheimer&apos;s prevention</title>
-      <description>Highlights from The Peter Attia Drive: #384 - Special episode — Obicetrapib: The CETP inhibitor with cardiovascular benefits and potential Alzheimer&apos;s prevention
-
-Highlights:
-- Obesetrapib Explained: The host explains what Obesetrapib is, how it works as a CETP inhibitor, and its potential implications for Alzheimer&apos;s disease.
-- Lipid Biology Connection: The host discusses how lipid biology intersects with Alzheimer&apos;s disease, especially in E4 carriers, and explains the story of CETP inhibitors.
-- ApoB Class Explained: The host explains the ApoB class of lipoproteins, how they cause atherosclerosis, and their relationship with VLDLs and LDLs.
-- Indirect RCT Process: The host explains the indirect reverse cholesterol transport process, where HDL exchanges cholesterol ester for triglycerides with LDL particles.
-- CETP Inhibitors History: The host discusses the fascinating history of CETP inhibitors, their initial development, and the flawed assumption that raising HDL cholesterol is always good.
-</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-16-the-peter-attia-drive/2026-03-16-384-Special-episode-Obicetrapib-The-CETP-inhibitor-with-cardiovascular-benefits-and-potential-Alzheimers-prevention-highlights.mp3" length="8481271" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Mar 2026 15:03:23 +0000</pubDate>
-      <itunes:duration>530</itunes:duration>
-      <itunes:summary>Highlights from The Peter Attia Drive: #384 - Special episode — Obicetrapib: The CETP inhibitor with cardiovascular benefits and potential Alzheimer&apos;s prevention</itunes:summary>
-    </item>
-    <item>
-      <title>Manager Tools — The Difference Between Line And Staff Leadership</title>
-      <description>Highlights from Manager Tools: The Difference Between Line And Staff Leadership
-
-Highlights:
-- Line Staff Difference: The speakers discuss the difference between line and staff managers, and how line managers should prioritize demands from line leaders over staff leaders.
-- Staff Leadership Examples: The speakers provide examples of staff leadership roles, such as human resources, finance, and IT, and explain how these roles differ from line leadership roles.
-- Prioritizing Demands: The speakers discuss the importance of prioritizing demands from line leaders, and how to handle situations where a line leader tasks a manager with a request that may not be feasible.
-- Deprioritizing Staff Demands: The speakers explain why managers should deprioritize demands from staff organizations, and how this approach can help managers manage their workload and prioritize tasks effectively.
-</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-16-manager-tools/2026-03-16-The-Difference-Between-Line-And-Staff-Leadership-highlights.mp3" length="4865088" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Mar 2026 14:10:05 +0000</pubDate>
-      <itunes:duration>304</itunes:duration>
-      <itunes:summary>Highlights from Manager Tools: The Difference Between Line And Staff Leadership</itunes:summary>
-    </item>
-    <item>
-      <title>Refactoring Podcast — Leading Beyond the Framework 🧭 — with Richard Hughes-Jones</title>
-      <description>Highlights from Refactoring Podcast: Leading Beyond the Framework 🧭 — with Richard Hughes-Jones
-
-Highlights:
-- Coaching Journey: The guest shares his experience of writing an article with a former coaching client, which led to a unique and honest account of their coaching journey.
-- Non Technical Advantage: The guest explains how not having a strong technical background can be an advantage in coaching tech leaders, as it allows him to focus on other aspects of their development.
-- Common Challenges: The guest discusses the common challenges faced by senior leaders in tech, including ambiguity, complexity, and uncertainty, which are exacerbated by the current pace of change in the industry.
-- Ambiguity and Uncertainty: The guest highlights the difficulty of dealing with ambiguity and uncertainty, and how it requires leaders to be comfortable with not having all the answers, which can be a challenging mindset to adopt.
-- Leadership Development: The guest explains how traditional leadership development frameworks can only take leaders so far, and that further growth requires a more nuanced understanding of oneself and the ability to navigate complex situations.
-</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-06-refactoring-podcast/2026-03-06-Leading-Beyond-the-Framework-with-Richard-Hughes-Jones-highlights.mp3" length="6080932" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Mar 2026 13:14:26 +0000</pubDate>
-      <itunes:duration>380</itunes:duration>
-      <itunes:summary>Highlights from Refactoring Podcast: Leading Beyond the Framework 🧭 — with Richard Hughes-Jones</itunes:summary>
-    </item>
-    <item>
-      <title>The Diary Of A CEO — Manipulation Expert: How To Influence Anyone &amp; Make Them Do Exactly What You Want! - Chase Hughes</title>
-      <description>Highlights from The Diary Of A CEO: Manipulation Expert: How To Influence Anyone &amp; Make Them Do Exactly What You Want! - Chase Hughes
-
-Highlights:
-- Influencing Humans: The speaker discusses the importance of understanding how to influence human beings, which can be applied to various professions and aspects of life.
-- Guiding Decisions: The speaker talks about helping people understand how to guide human decision and have great conversations that are very influential.
-- PCP Model: The speaker explains the PCP model, a three-step cascade that happens inside the human brain when we get influenced, and its significance in understanding human behavior.
-- Shifting Perception: The speaker discusses the importance of shifting perception and how it can be done by acknowledging someone&apos;s point of view and then introducing a new one.
-- Calling Out Scripts: The speaker talks about the power of calling out scripts that run inside people&apos;s heads and how it can transform their behavior.
-- Hypnosis Example: The speaker shares an example of a stage hypnosis show where a person is made to do silly things, illustrating the power of context and perception.
-- Context and Perception: The speaker discusses how context and perception can be used to influence people&apos;s behavior and decision-making.
-- Shifting Context: The speaker talks about the importance of shifting context and how it can be done in various situations, such as in a conversation with a kid or in a business meeting.
-- Radicalization: The speaker discusses how modifying perception and context can be used to radicalize people and make them do things they wouldn&apos;t normally do.
-- Following Curiosity: The speaker talks about the importance of following one&apos;s curiosity and not being trapped by external pressure, and how this approach can lead to more open and meaningful conversations.
-</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/2026-03-19-the-diary-of-a-ceo/2026-03-19-Manipulation-Expert-How-To-Influence-Anyone-Make-Them-Do-Exactly-What-You-Want-Chase-Hughes-highlights.mp3" length="12160984" type="audio/mpeg"/>
-      <pubDate>Thu, 19 Mar 2026 12:47:00 +0000</pubDate>
-      <itunes:duration>760</itunes:duration>
-      <itunes:summary>Highlights from The Diary Of A CEO: Manipulation Expert: How To Influence Anyone &amp; Make Them Do Exactly What You Want! - Chase Hughes</itunes:summary>
-    </item>
   </channel>
 </rss>
