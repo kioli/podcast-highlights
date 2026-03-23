@@ -10,5 +10,23 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
+    <item>
+      <title>Daily Briefing — 2026-03-23</title>
+      <description>Covering 5 episodes:
+  The Diary Of A CEO: David Sinclair: Can Aging Be Reversed?After 8 Weeks, Cells Appeared 75% Younger In Tests! (8/10)
+  The knowledge project: Connor Teskey: The 90% Rule, AI Infrastructure, and the Future of Investing (2/10)
+  Manager Tools: The Difference Between Line And Staff Leadership (8/10)
+  Hidden Brain: Rethinking Depression (8/10)
+  The Peter Attia Drive: #385 - AMA #82: Applying the tools of longevity in the real world: disease prevention, DEXA scans, artificial sweeteners, injury recovery, stability training, habit formation, protein intake and mTOR activation, and more (5/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-03-23/briefing-2026-03-23.mp3" length="3300048" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Mar 2026 11:13:47 +0000</pubDate>
+      <itunes:duration>550</itunes:duration>
+      <itunes:summary>Covering 5 episodes:
+  The Diary Of A CEO: David Sinclair: Can Aging Be Reversed?After 8 Weeks, Cells Appeared 75% Younger In Tests! (8/10)
+  The knowledge project: Connor Teskey: The 90% Rule, AI Infrastructure, and the Future of Investing (2/10)
+  Manager Tools: The Difference Between Line And Staff Leadership (8/10)
+  Hidden Brain: Rethinking Depression (8/10)
+  The Peter Attia Drive: #385 - AMA #82: Applying the tools of longevity in the real world: disease prevention, DEXA scans, artificial sweeteners, injury recovery, stability training, habit formation, protein intake and mTOR activation, and more (5/10)</itunes:summary>
+    </item>
   </channel>
 </rss>

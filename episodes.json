@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "title": "Daily Briefing \u2014 2026-03-23",
+    "description": "Covering 5 episodes:\n  The Diary Of A CEO: David Sinclair: Can Aging Be Reversed?After 8 Weeks, Cells Appeared 75% Younger In Tests! (8/10)\n  The knowledge project: Connor Teskey: The 90% Rule, AI Infrastructure, and the Future of Investing (2/10)\n  Manager Tools: The Difference Between Line And Staff Leadership (8/10)\n  Hidden Brain: Rethinking Depression (8/10)\n  The Peter Attia Drive: #385 - AMA #82: Applying the tools of longevity in the real world: disease prevention, DEXA scans, artificial sweeteners, injury recovery, stability training, habit formation, protein intake and mTOR activation, and more (5/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-03-23/briefing-2026-03-23.mp3",
+    "audio_size": 3300048,
+    "pub_date": "Mon, 23 Mar 2026 11:13:47 +0000",
+    "duration_seconds": 550.008,
+    "date": "2026-03-23",
+    "episode_count": 5,
+    "episodes": [
+      {
+        "title": "David Sinclair: Can Aging Be Reversed?After 8 Weeks, Cells Appeared 75% Younger In Tests!",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      },
+      {
+        "title": "Connor Teskey: The 90% Rule, AI Infrastructure, and the Future of Investing",
+        "podcast": "The knowledge project",
+        "relevance_score": 2
+      },
+      {
+        "title": "The Difference Between Line And Staff Leadership",
+        "podcast": "Manager Tools",
+        "relevance_score": 8
+      },
+      {
+        "title": "Rethinking Depression",
+        "podcast": "Hidden Brain",
+        "relevance_score": 8
+      },
+      {
+        "title": "#385 - AMA #82: Applying the tools of longevity in the real world: disease prevention, DEXA scans, artificial sweeteners, injury recovery, stability training, habit formation, protein intake and mTOR activation, and more",
+        "podcast": "The Peter Attia Drive",
+        "relevance_score": 5
+      }
+    ]
+  }
+]
