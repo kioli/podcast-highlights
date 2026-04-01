@@ -1,5 +1,37 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-01",
+    "description": "Covering 4 episodes:\n  HBR Ideacast: Building a Sustainability Strategy Around Customers (6/10)\n  The Diary Of A CEO: Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat (8/10)\n  Manager Tools: Building Peer Relationships - Part 1 (9/10)\n  Hidden Brain: When It's Okay to Lie (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-01/briefing-2026-04-01.mp3",
+    "audio_size": 1767024,
+    "pub_date": "Wed, 01 Apr 2026 12:25:28 +0000",
+    "duration_seconds": 294.504,
+    "date": "2026-04-01",
+    "episode_count": 4,
+    "episodes": [
+      {
+        "title": "Building a Sustainability Strategy Around Customers",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 6
+      },
+      {
+        "title": "Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      },
+      {
+        "title": "Building Peer Relationships - Part 1",
+        "podcast": "Manager Tools",
+        "relevance_score": 9
+      },
+      {
+        "title": "When It's Okay to Lie",
+        "podcast": "Hidden Brain",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-03-25",
     "description": "Covering 6 episodes:\n  HBR Ideacast: Learn to Disagree More Effectively (8/10)\n  The Diary Of A CEO: David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests! (9/10)\n  Refactoring Podcast: What Comes After the IDE \ud83d\udda5 \u2014 with Amelia Wattenberger (9/10)\n  The knowledge project: [Outliers] Harrison McCain: How to Create Demand for Something Nobody Wants (8/10)\n  Manager Tools: Top Ten Hiring Mistakes - #7 - Being Swayed (9/10)\n  The Peter Attia Drive: #385 - AMA #82: Applying the tools of longevity in the real world: disease prevention, DEXA scans, artificial sweeteners, injury recovery, stability training, habit formation, protein intake and mTOR activation, and more (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-03-25/briefing-2026-03-25.mp3",

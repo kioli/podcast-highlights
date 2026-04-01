@@ -11,6 +11,22 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-04-01</title>
+      <description>Covering 4 episodes:
+  HBR Ideacast: Building a Sustainability Strategy Around Customers (6/10)
+  The Diary Of A CEO: Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat (8/10)
+  Manager Tools: Building Peer Relationships - Part 1 (9/10)
+  Hidden Brain: When It&apos;s Okay to Lie (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-01/briefing-2026-04-01.mp3" length="1767024" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Apr 2026 12:25:28 +0000</pubDate>
+      <itunes:duration>294</itunes:duration>
+      <itunes:summary>Covering 4 episodes:
+  HBR Ideacast: Building a Sustainability Strategy Around Customers (6/10)
+  The Diary Of A CEO: Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat (8/10)
+  Manager Tools: Building Peer Relationships - Part 1 (9/10)
+  Hidden Brain: When It&apos;s Okay to Lie (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-03-25</title>
       <description>Covering 6 episodes:
   HBR Ideacast: Learn to Disagree More Effectively (8/10)
