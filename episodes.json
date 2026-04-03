@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-03",
+    "description": "Covering 2 episodes:\n  HBR Ideacast: Strategy Summit 2026: Who\u2019s Going to Succeed with AI? (8/10)\n  The Diary Of A CEO: Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan (6/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-03/briefing-2026-04-03.mp3",
+    "audio_size": 1588896,
+    "pub_date": "Fri, 03 Apr 2026 08:43:44 +0000",
+    "duration_seconds": 264.816,
+    "date": "2026-04-03",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "Strategy Summit 2026: Who\u2019s Going to Succeed with AI?",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 8
+      },
+      {
+        "title": "Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 6
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-04-02",
     "description": "Covering 1 episodes:\n  The knowledge project: Joe Liemandt: Alpha School\u00a0and the Future of Education (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-02/briefing-2026-04-02.mp3",
