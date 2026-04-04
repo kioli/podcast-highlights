@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-04",
+    "description": "Covering 1 episodes:\n  Refactoring Podcast: Every Engineer Is a Manager Now \ud83e\udd16 \u2014 with Chris Lattner (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-04/briefing-2026-04-04.mp3",
+    "audio_size": 1633248,
+    "pub_date": "Sat, 04 Apr 2026 08:30:04 +0000",
+    "duration_seconds": 272.208,
+    "date": "2026-04-04",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "Every Engineer Is a Manager Now \ud83e\udd16 \u2014 with Chris Lattner",
+        "podcast": "Refactoring Podcast",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-04-03",
     "description": "Covering 2 episodes:\n  HBR Ideacast: Strategy Summit 2026: Who\u2019s Going to Succeed with AI? (8/10)\n  The Diary Of A CEO: Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan (6/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-03/briefing-2026-04-03.mp3",

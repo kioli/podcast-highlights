@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-04-04</title>
+      <description>Covering 1 episodes:
+  Refactoring Podcast: Every Engineer Is a Manager Now 🤖 — with Chris Lattner (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-04/briefing-2026-04-04.mp3" length="1633248" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Apr 2026 08:30:04 +0000</pubDate>
+      <itunes:duration>272</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  Refactoring Podcast: Every Engineer Is a Manager Now 🤖 — with Chris Lattner (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-04-03</title>
       <description>Covering 2 episodes:
   HBR Ideacast: Strategy Summit 2026: Who’s Going to Succeed with AI? (8/10)
