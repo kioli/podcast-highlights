@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-08",
+    "description": "Covering 1 episodes:\n  HBR Ideacast: The Case for Designing Work Around Circadian Rhythms (6/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-08/briefing-2026-04-08.mp3",
+    "audio_size": 1178928,
+    "pub_date": "Wed, 08 Apr 2026 08:37:44 +0000",
+    "duration_seconds": 196.488,
+    "date": "2026-04-08",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "The Case for Designing Work Around Circadian Rhythms",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 6
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-04-07",
     "description": "Covering 2 episodes:\n  Manager Tools: Building Peer Relationships - Part 2 (9/10)\n  Hidden Brain: The Debt Trap (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-07/briefing-2026-04-07.mp3",
