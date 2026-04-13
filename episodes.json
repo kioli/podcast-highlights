@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-13",
+    "description": "Covering 2 episodes:\n  The Diary Of A CEO: The Iran War Expert: The Most Dangerous Stage Begins Now (8/10)\n  The Peter Attia Drive: #387 - AMA #83: Peptides\u2014evaluating the science, safety, and hype in a rapidly growing field (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-13/briefing-2026-04-13.mp3",
+    "audio_size": 1509696,
+    "pub_date": "Mon, 13 Apr 2026 10:09:23 +0000",
+    "duration_seconds": 251.616,
+    "date": "2026-04-13",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "The Iran War Expert: The Most Dangerous Stage Begins Now",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      },
+      {
+        "title": "#387 - AMA #83: Peptides\u2014evaluating the science, safety, and hype in a rapidly growing field",
+        "podcast": "The Peter Attia Drive",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-04-10",
     "description": "Covering 1 episodes:\n  The Diary Of A CEO: Most Replayed Moment: Your Thoughts Shape Your Reality! How To Rewrite Limiting Beliefs (6/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-10/briefing-2026-04-10.mp3",
