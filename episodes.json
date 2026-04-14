@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-14",
+    "description": "Covering 1 episodes:\n  Hidden Brain: How to Change the World (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-14/briefing-2026-04-14.mp3",
+    "audio_size": 1724976,
+    "pub_date": "Tue, 14 Apr 2026 09:24:34 +0000",
+    "duration_seconds": 287.496,
+    "date": "2026-04-14",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "How to Change the World",
+        "podcast": "Hidden Brain",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-04-13",
     "description": "Covering 2 episodes:\n  The Diary Of A CEO: The Iran War Expert: The Most Dangerous Stage Begins Now (8/10)\n  The Peter Attia Drive: #387 - AMA #83: Peptides\u2014evaluating the science, safety, and hype in a rapidly growing field (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-13/briefing-2026-04-13.mp3",
