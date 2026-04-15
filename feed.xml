@@ -11,6 +11,20 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-04-15</title>
+      <description>Covering 3 episodes:
+  HBR Ideacast: To Gain Customer—and Employee—Loyalty, Go Beyond Good Enough (6/10)
+  The knowledge project: Mario Harik: Playing to Win (8/10)
+  Manager Tools: Network Building - The St. Jude Rule (9/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-15/briefing-2026-04-15.mp3" length="1766304" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Apr 2026 10:11:25 +0000</pubDate>
+      <itunes:duration>294</itunes:duration>
+      <itunes:summary>Covering 3 episodes:
+  HBR Ideacast: To Gain Customer—and Employee—Loyalty, Go Beyond Good Enough (6/10)
+  The knowledge project: Mario Harik: Playing to Win (8/10)
+  Manager Tools: Network Building - The St. Jude Rule (9/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-04-14</title>
       <description>Covering 1 episodes:
   Hidden Brain: How to Change the World (8/10)</description>

@@ -1,5 +1,32 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-15",
+    "description": "Covering 3 episodes:\n  HBR Ideacast: To Gain Customer\u2014and Employee\u2014Loyalty, Go Beyond Good Enough (6/10)\n  The knowledge project: Mario Harik: Playing to Win (8/10)\n  Manager Tools: Network Building - The St. Jude Rule (9/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-15/briefing-2026-04-15.mp3",
+    "audio_size": 1766304,
+    "pub_date": "Wed, 15 Apr 2026 10:11:25 +0000",
+    "duration_seconds": 294.384,
+    "date": "2026-04-15",
+    "episode_count": 3,
+    "episodes": [
+      {
+        "title": "To Gain Customer\u2014and Employee\u2014Loyalty, Go Beyond Good Enough",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 6
+      },
+      {
+        "title": "Mario Harik: Playing to Win",
+        "podcast": "The knowledge project",
+        "relevance_score": 8
+      },
+      {
+        "title": "Network Building - The St. Jude Rule",
+        "podcast": "Manager Tools",
+        "relevance_score": 9
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-04-14",
     "description": "Covering 1 episodes:\n  Hidden Brain: How to Change the World (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-14/briefing-2026-04-14.mp3",
