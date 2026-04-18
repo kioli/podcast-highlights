@@ -11,6 +11,18 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-04-18</title>
+      <description>Covering 2 episodes:
+  The Diary Of A CEO: Most Replayed Moment: Insulin Is The Reason You&apos;re Gaining Fat! How To Lower It Now (6/10)
+  Refactoring Podcast: AI Coding meets Code Health 🪄 — with Stuart Caborn (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-18/briefing-2026-04-18.mp3" length="1732752" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Apr 2026 08:57:38 +0000</pubDate>
+      <itunes:duration>288</itunes:duration>
+      <itunes:summary>Covering 2 episodes:
+  The Diary Of A CEO: Most Replayed Moment: Insulin Is The Reason You&apos;re Gaining Fat! How To Lower It Now (6/10)
+  Refactoring Podcast: AI Coding meets Code Health 🪄 — with Stuart Caborn (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-04-17</title>
       <description>Covering 1 episodes:
   The Diary Of A CEO: World Collapse Expert (Ian Bremmer): The Real Crisis Is What Comes After Trump (6/10)</description>
