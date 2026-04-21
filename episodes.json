@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-21",
+    "description": "Covering 2 episodes:\n  The Diary Of A CEO: The Peptide Expert: Big Pharma Are Hiding This Powerful Peptide From You! - Dr. Alex Tatem (6/10)\n  Hidden Brain: Do You Feel Loved? (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-21/briefing-2026-04-21.mp3",
+    "audio_size": 1404576,
+    "pub_date": "Tue, 21 Apr 2026 11:21:52 +0000",
+    "duration_seconds": 234.096,
+    "date": "2026-04-21",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "The Peptide Expert: Big Pharma Are Hiding This Powerful Peptide From You! - Dr. Alex Tatem",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 6
+      },
+      {
+        "title": "Do You Feel Loved?",
+        "podcast": "Hidden Brain",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-04-18",
     "description": "Covering 2 episodes:\n  The Diary Of A CEO: Most Replayed Moment: Insulin Is The Reason You're Gaining Fat! How To Lower It Now (6/10)\n  Refactoring Podcast: AI Coding meets Code Health \ud83e\ude84 \u2014 with Stuart Caborn (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-18/briefing-2026-04-18.mp3",
