@@ -1,5 +1,32 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-22",
+    "description": "Covering 3 episodes:\n  HBR Ideacast: What Sets Superteams Apart from the Rest (6/10)\n  Manager Tools: Fill The Vacuum! - Communicate Your Vision - Chapter 1 (9/10)\n  The Peter Attia Drive: #388 \u2014 Prostate cancer screening: why current PSA guidelines are failing men and how modern tools improve early detection and save lives (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-22/briefing-2026-04-22.mp3",
+    "audio_size": 1757664,
+    "pub_date": "Wed, 22 Apr 2026 09:36:10 +0000",
+    "duration_seconds": 292.944,
+    "date": "2026-04-22",
+    "episode_count": 3,
+    "episodes": [
+      {
+        "title": "What Sets Superteams Apart from the Rest",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 6
+      },
+      {
+        "title": "Fill The Vacuum! - Communicate Your Vision - Chapter 1",
+        "podcast": "Manager Tools",
+        "relevance_score": 9
+      },
+      {
+        "title": "#388 \u2014 Prostate cancer screening: why current PSA guidelines are failing men and how modern tools improve early detection and save lives",
+        "podcast": "The Peter Attia Drive",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-04-21",
     "description": "Covering 2 episodes:\n  The Diary Of A CEO: The Peptide Expert: Big Pharma Are Hiding This Powerful Peptide From You! - Dr. Alex Tatem (6/10)\n  Hidden Brain: Do You Feel Loved? (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-21/briefing-2026-04-21.mp3",
