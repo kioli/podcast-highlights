@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-04-23</title>
+      <description>Covering 1 episodes:
+  The knowledge project: Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-23/briefing-2026-04-23.mp3" length="1962864" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Apr 2026 09:42:29 +0000</pubDate>
+      <itunes:duration>327</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The knowledge project: Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-04-22</title>
       <description>Covering 3 episodes:
   HBR Ideacast: What Sets Superteams Apart from the Rest (6/10)
