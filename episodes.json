@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-04-26",
+    "description": "Covering 1 episodes:\n  The Diary Of A CEO: Most Replayed Moment: Neuroscientist\u2019s Proof Of Life After Death! Dr Tara Swart (2/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-26/briefing-2026-04-26.mp3",
+    "audio_size": 1010016,
+    "pub_date": "Sun, 26 Apr 2026 08:44:09 +0000",
+    "duration_seconds": 168.336,
+    "date": "2026-04-26",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "Most Replayed Moment: Neuroscientist\u2019s Proof Of Life After Death! Dr Tara Swart",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 2
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-04-23",
     "description": "Covering 1 episodes:\n  The knowledge project: Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-23/briefing-2026-04-23.mp3",
