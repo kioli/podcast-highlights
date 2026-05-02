@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-05-02</title>
+      <description>Covering 1 episodes:
+  Refactoring Podcast: How to Own Your Career 🦝 — with Jean Hsu and Cate Huston (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-02/briefing-2026-05-02.mp3" length="1468512" type="audio/mpeg"/>
+      <pubDate>Sat, 02 May 2026 09:00:37 +0000</pubDate>
+      <itunes:duration>244</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  Refactoring Podcast: How to Own Your Career 🦝 — with Jean Hsu and Cate Huston (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-04-29</title>
       <description>Covering 1 episodes:
   HBR Ideacast: Why Your Team Won’t Speak Up (And How to Fix It) (9/10)</description>
