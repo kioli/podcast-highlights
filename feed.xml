@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-05-04</title>
+      <description>Covering 1 episodes:
+  The Diary Of A CEO: Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore! (6/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-04/briefing-2026-05-04.mp3" length="1121472" type="audio/mpeg"/>
+      <pubDate>Mon, 04 May 2026 10:57:29 +0000</pubDate>
+      <itunes:duration>186</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The Diary Of A CEO: Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore! (6/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-05-02</title>
       <description>Covering 1 episodes:
   Refactoring Podcast: How to Own Your Career 🦝 — with Jean Hsu and Cate Huston (8/10)</description>
