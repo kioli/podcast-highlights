@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-05-12",
+    "description": "Covering 1 episodes:\n  Hidden Brain: The Cowboy Philosopher (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-12/briefing-2026-05-12.mp3",
+    "audio_size": 1404864,
+    "pub_date": "Tue, 12 May 2026 10:34:00 +0000",
+    "duration_seconds": 234.144,
+    "date": "2026-05-12",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "The Cowboy Philosopher",
+        "podcast": "Hidden Brain",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-05-11",
     "description": "Covering 1 episodes:\n  The Diary Of A CEO: Pulitzer Prize Historian: You Won't Notice Until It's Too Late! (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-11/briefing-2026-05-11.mp3",
