@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-05-13",
+    "description": "Covering 2 episodes:\n  HBR Ideacast: The Leadership Skills That Make Transformation Stick (9/10)\n  The knowledge project: Winston Weinberg: Speed, Stress, and Better Decisions (9/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-13/briefing-2026-05-13.mp3",
+    "audio_size": 2124144,
+    "pub_date": "Wed, 13 May 2026 10:46:10 +0000",
+    "duration_seconds": 354.024,
+    "date": "2026-05-13",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "The Leadership Skills That Make Transformation Stick",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 9
+      },
+      {
+        "title": "Winston Weinberg: Speed, Stress, and Better Decisions",
+        "podcast": "The knowledge project",
+        "relevance_score": 9
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-05-12",
     "description": "Covering 1 episodes:\n  Hidden Brain: The Cowboy Philosopher (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-12/briefing-2026-05-12.mp3",
