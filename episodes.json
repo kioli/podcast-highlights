@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-05-15",
+    "description": "Covering 2 episodes:\n  Refactoring Podcast: The State of Product Development \ud83d\udd0d \u2014 with Doug Peete (8/10)\n  Manager Tools: Presenting Failures - Chapter 1 - Front Of The Room Behaviors (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-15/briefing-2026-05-15.mp3",
+    "audio_size": 1652400,
+    "pub_date": "Fri, 15 May 2026 10:46:48 +0000",
+    "duration_seconds": 275.4,
+    "date": "2026-05-15",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "The State of Product Development \ud83d\udd0d \u2014 with Doug Peete",
+        "podcast": "Refactoring Podcast",
+        "relevance_score": 8
+      },
+      {
+        "title": "Presenting Failures - Chapter 1 - Front Of The Room Behaviors",
+        "podcast": "Manager Tools",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-05-14",
     "description": "Covering 1 episodes:\n  The Peter Attia Drive: #391 \u2012 Colorectal cancer screening: importance of early screening, colonoscopy as a screening and preventive tool, and how to build a personalized strategy (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-14/briefing-2026-05-14.mp3",

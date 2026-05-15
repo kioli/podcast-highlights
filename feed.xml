@@ -11,6 +11,18 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-05-15</title>
+      <description>Covering 2 episodes:
+  Refactoring Podcast: The State of Product Development 🔍 — with Doug Peete (8/10)
+  Manager Tools: Presenting Failures - Chapter 1 - Front Of The Room Behaviors (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-15/briefing-2026-05-15.mp3" length="1652400" type="audio/mpeg"/>
+      <pubDate>Fri, 15 May 2026 10:46:48 +0000</pubDate>
+      <itunes:duration>275</itunes:duration>
+      <itunes:summary>Covering 2 episodes:
+  Refactoring Podcast: The State of Product Development 🔍 — with Doug Peete (8/10)
+  Manager Tools: Presenting Failures - Chapter 1 - Front Of The Room Behaviors (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-05-14</title>
       <description>Covering 1 episodes:
   The Peter Attia Drive: #391 ‒ Colorectal cancer screening: importance of early screening, colonoscopy as a screening and preventive tool, and how to build a personalized strategy (8/10)</description>
