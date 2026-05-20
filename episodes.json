@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-05-20",
+    "description": "Covering 2 episodes:\n  HBR Ideacast: How to Break Free of Negative Thought Spirals (6/10)\n  The knowledge project: [Outliers] The Hyundai Founder Who Put a Country on His Back (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-20/briefing-2026-05-20.mp3",
+    "audio_size": 1410048,
+    "pub_date": "Wed, 20 May 2026 12:04:30 +0000",
+    "duration_seconds": 235.008,
+    "date": "2026-05-20",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "How to Break Free of Negative Thought Spirals",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 6
+      },
+      {
+        "title": "[Outliers] The Hyundai Founder Who Put a Country on His Back",
+        "podcast": "The knowledge project",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-05-19",
     "description": "Covering 3 episodes:\n  Manager Tools: Teaching Your Directs How To Interview - Chapter 1 - Basics - Part 1 (9/10)\n  Hidden Brain: The Empathy Gym (8/10)\n  The Peter Attia Drive: #392 - Genetic testing: when it's valuable, how to choose the right test, and what to do with the results (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-19/briefing-2026-05-19.mp3",
