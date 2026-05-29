@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-05-29",
+    "description": "Covering 1 episodes:\n  Refactoring Podcast: The Future of Engineering \ud83d\udd2e \u2014 with James Stanier (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-29/briefing-2026-05-29.mp3",
+    "audio_size": 1217376,
+    "pub_date": "Fri, 29 May 2026 11:24:33 +0000",
+    "duration_seconds": 202.896,
+    "date": "2026-05-29",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "The Future of Engineering \ud83d\udd2e \u2014 with James Stanier",
+        "podcast": "Refactoring Podcast",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-05-25",
     "description": "Covering 2 episodes:\n  The Diary Of A CEO: Bruno Fernandes: Roy Keane Twisted My Words. They Offered Me \u00a3200M, I Said No. (6/10)\n  The Peter Attia Drive: #393 \u2012 AMA #85: A guide to medications and supplements: determining what to take, what to skip, and how to know if they're working for you (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-25/briefing-2026-05-25.mp3",

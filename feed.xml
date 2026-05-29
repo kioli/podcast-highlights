@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-05-29</title>
+      <description>Covering 1 episodes:
+  Refactoring Podcast: The Future of Engineering 🔮 — with James Stanier (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-29/briefing-2026-05-29.mp3" length="1217376" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 11:24:33 +0000</pubDate>
+      <itunes:duration>202</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  Refactoring Podcast: The Future of Engineering 🔮 — with James Stanier (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-05-25</title>
       <description>Covering 2 episodes:
   The Diary Of A CEO: Bruno Fernandes: Roy Keane Twisted My Words. They Offered Me £200M, I Said No. (6/10)
