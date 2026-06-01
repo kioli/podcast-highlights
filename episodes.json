@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-06-01",
+    "description": "Covering 2 episodes:\n  The Diary Of A CEO: Tech Whistleblower: You Only Have 3 Years Left Before This Hits! - Mo Gawdat (8/10)\n  The Peter Attia Drive: #394 \u2012 Sleep pharmacology: the role of medications in healthy sleep, the promise of emerging therapies, and the evidence for common sleep supplements (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-01/briefing-2026-06-01.mp3",
+    "audio_size": 1791648,
+    "pub_date": "Mon, 01 Jun 2026 14:21:02 +0000",
+    "duration_seconds": 298.608,
+    "date": "2026-06-01",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "Tech Whistleblower: You Only Have 3 Years Left Before This Hits! - Mo Gawdat",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      },
+      {
+        "title": "#394 \u2012 Sleep pharmacology: the role of medications in healthy sleep, the promise of emerging therapies, and the evidence for common sleep supplements",
+        "podcast": "The Peter Attia Drive",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-05-30",
     "description": "Covering 1 episodes:\n  The Diary Of A CEO: Most Replayed Moment: The Hidden Organ That Controls Exactly How You Age! (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-30/briefing-2026-05-30.mp3",
