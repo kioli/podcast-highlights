@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-06-02",
+    "description": "Covering 2 episodes:\n  The knowledge project: Proven, Better, New: Mark Pincus on the Rules of Product Innovation (8/10)\n  Hidden Brain: Unleashing Your Creativity (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-02/briefing-2026-06-02.mp3",
+    "audio_size": 1645632,
+    "pub_date": "Tue, 02 Jun 2026 12:30:03 +0000",
+    "duration_seconds": 274.272,
+    "date": "2026-06-02",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "Proven, Better, New: Mark Pincus on the Rules of Product Innovation",
+        "podcast": "The knowledge project",
+        "relevance_score": 8
+      },
+      {
+        "title": "Unleashing Your Creativity",
+        "podcast": "Hidden Brain",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-06-01",
     "description": "Covering 2 episodes:\n  The Diary Of A CEO: Tech Whistleblower: You Only Have 3 Years Left Before This Hits! - Mo Gawdat (8/10)\n  The Peter Attia Drive: #394 \u2012 Sleep pharmacology: the role of medications in healthy sleep, the promise of emerging therapies, and the evidence for common sleep supplements (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-01/briefing-2026-06-01.mp3",
