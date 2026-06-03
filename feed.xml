@@ -11,6 +11,18 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-06-03</title>
+      <description>Covering 2 episodes:
+  HBR Ideacast: Reinventing an Organization to Do More With Less (6/10)
+  Manager Tools: Company Change With A Promotion Is Unlikely - For Managers - Part 1 (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-03/briefing-2026-06-03.mp3" length="1450224" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jun 2026 12:36:20 +0000</pubDate>
+      <itunes:duration>241</itunes:duration>
+      <itunes:summary>Covering 2 episodes:
+  HBR Ideacast: Reinventing an Organization to Do More With Less (6/10)
+  Manager Tools: Company Change With A Promotion Is Unlikely - For Managers - Part 1 (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-06-02</title>
       <description>Covering 2 episodes:
   The knowledge project: Proven, Better, New: Mark Pincus on the Rules of Product Innovation (8/10)

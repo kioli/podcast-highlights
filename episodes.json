@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-06-03",
+    "description": "Covering 2 episodes:\n  HBR Ideacast: Reinventing an Organization to Do More With Less (6/10)\n  Manager Tools: Company Change With A Promotion Is Unlikely - For Managers - Part 1 (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-03/briefing-2026-06-03.mp3",
+    "audio_size": 1450224,
+    "pub_date": "Wed, 03 Jun 2026 12:36:20 +0000",
+    "duration_seconds": 241.704,
+    "date": "2026-06-03",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "Reinventing an Organization to Do More With Less",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 6
+      },
+      {
+        "title": "Company Change With A Promotion Is Unlikely - For Managers - Part 1",
+        "podcast": "Manager Tools",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-06-02",
     "description": "Covering 2 episodes:\n  The knowledge project: Proven, Better, New: Mark Pincus on the Rules of Product Innovation (8/10)\n  Hidden Brain: Unleashing Your Creativity (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-02/briefing-2026-06-02.mp3",
