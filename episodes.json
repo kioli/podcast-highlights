@@ -1,5 +1,32 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-06-09",
+    "description": "Covering 3 episodes:\n  The Diary Of A CEO: Death of the Middle Class: Billionaire vs Entrepreneur DEBATE - Daniel Priestley v Nick Hanauer (8/10)\n  Hidden Brain: Who Are You, Really? (8/10)\n  The Peter Attia Drive: #395 - Brain lipidology: understanding APOE, cholesterol homeostasis, Alzheimer's disease risk, and the effects of lipid-lowering therapies on brain health | Tom Dayspring, M.D. (9/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-09/briefing-2026-06-09.mp3",
+    "audio_size": 2308608,
+    "pub_date": "Tue, 09 Jun 2026 14:02:05 +0000",
+    "duration_seconds": 384.768,
+    "date": "2026-06-09",
+    "episode_count": 3,
+    "episodes": [
+      {
+        "title": "Death of the Middle Class: Billionaire vs Entrepreneur DEBATE - Daniel Priestley v Nick Hanauer",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      },
+      {
+        "title": "Who Are You, Really?",
+        "podcast": "Hidden Brain",
+        "relevance_score": 8
+      },
+      {
+        "title": "#395 - Brain lipidology: understanding APOE, cholesterol homeostasis, Alzheimer's disease risk, and the effects of lipid-lowering therapies on brain health | Tom Dayspring, M.D.",
+        "podcast": "The Peter Attia Drive",
+        "relevance_score": 9
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-06-06",
     "description": "Covering 1 episodes:\n  The Diary Of A CEO: Most Replayed Moment: Bren\u00e9 Brown on Vulnerability, Self Esteem and The Four Skillsets Of Courage (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-06/briefing-2026-06-06.mp3",
