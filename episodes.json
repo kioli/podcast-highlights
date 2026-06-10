@@ -1,5 +1,32 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-06-10",
+    "description": "Covering 3 episodes:\n  HBR Ideacast: We All Hate Meetings\u2014Here's How to Make Them Work (8/10)\n  The knowledge project: Mental Models That Change How You Think | Bill Gurley (8/10)\n  Manager Tools: Company Change With A Promotion Is Unlikely - For Managers - Part 2 (9/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-10/briefing-2026-06-10.mp3",
+    "audio_size": 1921824,
+    "pub_date": "Wed, 10 Jun 2026 12:10:22 +0000",
+    "duration_seconds": 320.304,
+    "date": "2026-06-10",
+    "episode_count": 3,
+    "episodes": [
+      {
+        "title": "We All Hate Meetings\u2014Here's How to Make Them Work",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 8
+      },
+      {
+        "title": "Mental Models That Change How You Think | Bill Gurley",
+        "podcast": "The knowledge project",
+        "relevance_score": 8
+      },
+      {
+        "title": "Company Change With A Promotion Is Unlikely - For Managers - Part 2",
+        "podcast": "Manager Tools",
+        "relevance_score": 9
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-06-09",
     "description": "Covering 3 episodes:\n  The Diary Of A CEO: Death of the Middle Class: Billionaire vs Entrepreneur DEBATE - Daniel Priestley v Nick Hanauer (8/10)\n  Hidden Brain: Who Are You, Really? (8/10)\n  The Peter Attia Drive: #395 - Brain lipidology: understanding APOE, cholesterol homeostasis, Alzheimer's disease risk, and the effects of lipid-lowering therapies on brain health | Tom Dayspring, M.D. (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-09/briefing-2026-06-09.mp3",
