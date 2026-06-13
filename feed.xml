@@ -11,6 +11,18 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-06-13</title>
+      <description>Covering 2 episodes:
+  The Diary Of A CEO: Most Replayed Moment: Is Milk Healthy? The Truth About Dairy, Sugar, Fruit And Fasting (6/10)
+  Refactoring Podcast: Understanding Engineers&apos; Needs 🧬 — with Lara Hogan (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-13/briefing-2026-06-13.mp3" length="1714320" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 11:02:30 +0000</pubDate>
+      <itunes:duration>285</itunes:duration>
+      <itunes:summary>Covering 2 episodes:
+  The Diary Of A CEO: Most Replayed Moment: Is Milk Healthy? The Truth About Dairy, Sugar, Fruit And Fasting (6/10)
+  Refactoring Podcast: Understanding Engineers&apos; Needs 🧬 — with Lara Hogan (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-06-10</title>
       <description>Covering 3 episodes:
   HBR Ideacast: We All Hate Meetings—Here&apos;s How to Make Them Work (8/10)
