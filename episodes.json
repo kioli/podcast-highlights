@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-06-16",
+    "description": "Covering 1 episodes:\n  Hidden Brain: A Secret Source of Connection (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-16/briefing-2026-06-16.mp3",
+    "audio_size": 1269792,
+    "pub_date": "Tue, 16 Jun 2026 13:10:22 +0000",
+    "duration_seconds": 211.632,
+    "date": "2026-06-16",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "A Secret Source of Connection",
+        "podcast": "Hidden Brain",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-06-15",
     "description": "Covering 2 episodes:\n  The Diary Of A CEO: Creatine Expert: Creatine Is The Secret To Weight Loss (8/10)\n  The Peter Attia Drive: #396 \u2012 Breast cancer screening: understanding risk, deciding when to start and how often to screen, and choosing the right imaging strategy (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-15/briefing-2026-06-15.mp3",
