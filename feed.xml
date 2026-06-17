@@ -11,6 +11,18 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-06-17</title>
+      <description>Covering 2 episodes:
+  HBR Ideacast: The Right Way to Manage Rule Breakers (8/10)
+  Manager Tools: Presenting Mistakes - Chapter 2 - Rigidity (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-17/briefing-2026-06-17.mp3" length="1614960" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 12:21:52 +0000</pubDate>
+      <itunes:duration>269</itunes:duration>
+      <itunes:summary>Covering 2 episodes:
+  HBR Ideacast: The Right Way to Manage Rule Breakers (8/10)
+  Manager Tools: Presenting Mistakes - Chapter 2 - Rigidity (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-06-16</title>
       <description>Covering 1 episodes:
   Hidden Brain: A Secret Source of Connection (8/10)</description>

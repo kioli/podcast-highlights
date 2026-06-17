@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-06-17",
+    "description": "Covering 2 episodes:\n  HBR Ideacast: The Right Way to Manage Rule Breakers (8/10)\n  Manager Tools: Presenting Mistakes - Chapter 2 - Rigidity (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-17/briefing-2026-06-17.mp3",
+    "audio_size": 1614960,
+    "pub_date": "Wed, 17 Jun 2026 12:21:52 +0000",
+    "duration_seconds": 269.16,
+    "date": "2026-06-17",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "The Right Way to Manage Rule Breakers",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 8
+      },
+      {
+        "title": "Presenting Mistakes - Chapter 2 - Rigidity",
+        "podcast": "Manager Tools",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-06-16",
     "description": "Covering 1 episodes:\n  Hidden Brain: A Secret Source of Connection (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-16/briefing-2026-06-16.mp3",
