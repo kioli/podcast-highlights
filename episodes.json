@@ -1,5 +1,32 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-06-24",
+    "description": "Covering 3 episodes:\n  HBR Ideacast: Creating Products with Curiosity, Humility, and Play (6/10)\n  The knowledge project: How to Repair and Nourish Your Gut | Dr. Giulia Enders (8/10)\n  Manager Tools: How To Work With Competencies (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-24/briefing-2026-06-24.mp3",
+    "audio_size": 2482560,
+    "pub_date": "Wed, 24 Jun 2026 11:35:30 +0000",
+    "duration_seconds": 413.76,
+    "date": "2026-06-24",
+    "episode_count": 3,
+    "episodes": [
+      {
+        "title": "Creating Products with Curiosity, Humility, and Play",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 6
+      },
+      {
+        "title": "How to Repair and Nourish Your Gut | Dr. Giulia Enders",
+        "podcast": "The knowledge project",
+        "relevance_score": 8
+      },
+      {
+        "title": "How To Work With Competencies",
+        "podcast": "Manager Tools",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-06-23",
     "description": "Covering 1 episodes:\n  Hidden Brain: Stepping Out of the Shadows (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-23/briefing-2026-06-23.mp3",

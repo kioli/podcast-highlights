@@ -11,6 +11,20 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-06-24</title>
+      <description>Covering 3 episodes:
+  HBR Ideacast: Creating Products with Curiosity, Humility, and Play (6/10)
+  The knowledge project: How to Repair and Nourish Your Gut | Dr. Giulia Enders (8/10)
+  Manager Tools: How To Work With Competencies (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-24/briefing-2026-06-24.mp3" length="2482560" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Jun 2026 11:35:30 +0000</pubDate>
+      <itunes:duration>413</itunes:duration>
+      <itunes:summary>Covering 3 episodes:
+  HBR Ideacast: Creating Products with Curiosity, Humility, and Play (6/10)
+  The knowledge project: How to Repair and Nourish Your Gut | Dr. Giulia Enders (8/10)
+  Manager Tools: How To Work With Competencies (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-06-23</title>
       <description>Covering 1 episodes:
   Hidden Brain: Stepping Out of the Shadows (8/10)</description>
