@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-06-27",
+    "description": "Covering 2 episodes:\n  The Diary Of A CEO: Most Replayed Moment: Sleep Expert On The Truth About Melatonin And Magnesium (8/10)\n  Refactoring Podcast: The Power of Stories \u270d\ufe0f \u2014 with Michael \"Rands\" Lopp (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-27/briefing-2026-06-27.mp3",
+    "audio_size": 2011104,
+    "pub_date": "Sat, 27 Jun 2026 10:30:08 +0000",
+    "duration_seconds": 335.184,
+    "date": "2026-06-27",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "Most Replayed Moment: Sleep Expert On The Truth About Melatonin And Magnesium",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      },
+      {
+        "title": "The Power of Stories \u270d\ufe0f \u2014 with Michael \"Rands\" Lopp",
+        "podcast": "Refactoring Podcast",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-06-24",
     "description": "Covering 3 episodes:\n  HBR Ideacast: Creating Products with Curiosity, Humility, and Play (6/10)\n  The knowledge project: How to Repair and Nourish Your Gut | Dr. Giulia Enders (8/10)\n  Manager Tools: How To Work With Competencies (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-06-24/briefing-2026-06-24.mp3",
