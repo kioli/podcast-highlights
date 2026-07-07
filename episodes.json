@@ -1,5 +1,37 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-07",
+    "description": "Covering 4 episodes:\n  HBR Ideacast: Leadership Summit 2026: Mattel's CEO on Driving Consumer Engagement and Cultural Impact (8/10)\n  The Diary Of A CEO: UFC Legend Dustin Poirier: I Lost My Mind. I\u2019ll Never Let It Happen Again. (8/10)\n  The knowledge project: The Mindset That Unlocks Your Full Potential | Dr. Gio Valiante (8/10)\n  The Peter Attia Drive: Building strength and muscle mass: how to optimize training, nutrition, and more for longevity (AMA #71 rebroadcast) (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-07/briefing-2026-07-07.mp3",
+    "audio_size": 6899472,
+    "pub_date": "Tue, 07 Jul 2026 13:19:06 +0000",
+    "duration_seconds": 1149.912,
+    "date": "2026-07-07",
+    "episode_count": 4,
+    "episodes": [
+      {
+        "title": "Leadership Summit 2026: Mattel's CEO on Driving Consumer Engagement and Cultural Impact",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 8
+      },
+      {
+        "title": "UFC Legend Dustin Poirier: I Lost My Mind. I\u2019ll Never Let It Happen Again.",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      },
+      {
+        "title": "The Mindset That Unlocks Your Full Potential | Dr. Gio Valiante",
+        "podcast": "The knowledge project",
+        "relevance_score": 8
+      },
+      {
+        "title": "Building strength and muscle mass: how to optimize training, nutrition, and more for longevity (AMA #71 rebroadcast)",
+        "podcast": "The Peter Attia Drive",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-06",
     "description": "Covering 1 episodes:\n  The Diary Of A CEO: UFC Legend Dustin Poirier: I Lost My Mind. I\u2019ll Never Let It Happen Again. (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-06/briefing-2026-07-06.mp3",
