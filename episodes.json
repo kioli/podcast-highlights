@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-09",
+    "description": "Covering 1 episodes:\n  HBR Ideacast: How Leaders Can Use AI to Solve Real Business Problems (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-09/briefing-2026-07-09.mp3",
+    "audio_size": 1384848,
+    "pub_date": "Thu, 09 Jul 2026 10:48:59 +0000",
+    "duration_seconds": 230.808,
+    "date": "2026-07-09",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "How Leaders Can Use AI to Solve Real Business Problems",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-08",
     "description": "Covering 2 episodes:\n  Manager Tools: Give Positive Feedback Just For Doing Their Job! - Part 1 (9/10)\n  Hidden Brain: Waking Up Your Spiritual Brain: Part 2 (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-08/briefing-2026-07-08.mp3",
