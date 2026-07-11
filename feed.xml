@@ -11,6 +11,20 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-11</title>
+      <description>Covering 3 episodes:
+  HBR Ideacast: Leadership Summit 2026: Honest Company CEO Carla Vernón on Leading with Focus in Turbulent Times (8/10)
+  The Diary Of A CEO: Most Replayed Moment: Are You Really Gluten Intolerant? It Could Be This Instead! (8/10)
+  Refactoring Podcast: The Rise of Malleable Software 🧩 — with Geoffrey Litt (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-11/briefing-2026-07-11.mp3" length="2062080" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Jul 2026 09:49:50 +0000</pubDate>
+      <itunes:duration>343</itunes:duration>
+      <itunes:summary>Covering 3 episodes:
+  HBR Ideacast: Leadership Summit 2026: Honest Company CEO Carla Vernón on Leading with Focus in Turbulent Times (8/10)
+  The Diary Of A CEO: Most Replayed Moment: Are You Really Gluten Intolerant? It Could Be This Instead! (8/10)
+  Refactoring Podcast: The Rise of Malleable Software 🧩 — with Geoffrey Litt (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-09</title>
       <description>Covering 1 episodes:
   HBR Ideacast: How Leaders Can Use AI to Solve Real Business Problems (8/10)</description>
@@ -687,26 +701,6 @@
   The Diary Of A CEO: Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat (8/10)
   Manager Tools: Building Peer Relationships - Part 1 (9/10)
   Hidden Brain: When It&apos;s Okay to Lie (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-03-25</title>
-      <description>Covering 6 episodes:
-  HBR Ideacast: Learn to Disagree More Effectively (8/10)
-  The Diary Of A CEO: David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests! (9/10)
-  Refactoring Podcast: What Comes After the IDE 🖥 — with Amelia Wattenberger (9/10)
-  The knowledge project: [Outliers] Harrison McCain: How to Create Demand for Something Nobody Wants (8/10)
-  Manager Tools: Top Ten Hiring Mistakes - #7 - Being Swayed (9/10)
-  The Peter Attia Drive: #385 - AMA #82: Applying the tools of longevity in the real world: disease prevention, DEXA scans, artificial sweeteners, injury recovery, stability training, habit formation, protein intake and mTOR activation, and more (9/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-03-25/briefing-2026-03-25.mp3" length="2401344" type="audio/mpeg"/>
-      <pubDate>Wed, 25 Mar 2026 11:37:02 +0000</pubDate>
-      <itunes:duration>400</itunes:duration>
-      <itunes:summary>Covering 6 episodes:
-  HBR Ideacast: Learn to Disagree More Effectively (8/10)
-  The Diary Of A CEO: David Sinclair: Can Aging Be Reversed? After 8 Weeks, Cells Appeared 75% Younger In Tests! (9/10)
-  Refactoring Podcast: What Comes After the IDE 🖥 — with Amelia Wattenberger (9/10)
-  The knowledge project: [Outliers] Harrison McCain: How to Create Demand for Something Nobody Wants (8/10)
-  Manager Tools: Top Ten Hiring Mistakes - #7 - Being Swayed (9/10)
-  The Peter Attia Drive: #385 - AMA #82: Applying the tools of longevity in the real world: disease prevention, DEXA scans, artificial sweeteners, injury recovery, stability training, habit formation, protein intake and mTOR activation, and more (9/10)</itunes:summary>
     </item>
   </channel>
 </rss>
