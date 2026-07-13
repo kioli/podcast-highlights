@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-13</title>
+      <description>Covering 1 episodes:
+  The Peter Attia Drive: #399 ‒ The evolution of Alzheimer&apos;s disease and dementia care: how early detection, personalized treatment, new therapies, and a multimodal approach are changing the landscape | Gayatri Devi, M.D. (9/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-13/briefing-2026-07-13.mp3" length="1546848" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jul 2026 11:29:49 +0000</pubDate>
+      <itunes:duration>257</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The Peter Attia Drive: #399 ‒ The evolution of Alzheimer&apos;s disease and dementia care: how early detection, personalized treatment, new therapies, and a multimodal approach are changing the landscape | Gayatri Devi, M.D. (9/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-11</title>
       <description>Covering 3 episodes:
   HBR Ideacast: Leadership Summit 2026: Honest Company CEO Carla Vernón on Leading with Focus in Turbulent Times (8/10)
@@ -685,22 +695,6 @@
       <itunes:duration>311</itunes:duration>
       <itunes:summary>Covering 1 episodes:
   The knowledge project: Joe Liemandt: Alpha School and the Future of Education (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-01</title>
-      <description>Covering 4 episodes:
-  HBR Ideacast: Building a Sustainability Strategy Around Customers (6/10)
-  The Diary Of A CEO: Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat (8/10)
-  Manager Tools: Building Peer Relationships - Part 1 (9/10)
-  Hidden Brain: When It&apos;s Okay to Lie (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-01/briefing-2026-04-01.mp3" length="1767024" type="audio/mpeg"/>
-      <pubDate>Wed, 01 Apr 2026 12:25:28 +0000</pubDate>
-      <itunes:duration>294</itunes:duration>
-      <itunes:summary>Covering 4 episodes:
-  HBR Ideacast: Building a Sustainability Strategy Around Customers (6/10)
-  The Diary Of A CEO: Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat (8/10)
-  Manager Tools: Building Peer Relationships - Part 1 (9/10)
-  Hidden Brain: When It&apos;s Okay to Lie (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>

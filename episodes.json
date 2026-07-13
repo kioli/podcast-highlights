@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-13",
+    "description": "Covering 1 episodes:\n  The Peter Attia Drive: #399 \u2012 The evolution of Alzheimer's disease and dementia care: how early detection, personalized treatment, new therapies, and a multimodal approach are changing the landscape | Gayatri Devi, M.D. (9/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-13/briefing-2026-07-13.mp3",
+    "audio_size": 1546848,
+    "pub_date": "Mon, 13 Jul 2026 11:29:49 +0000",
+    "duration_seconds": 257.808,
+    "date": "2026-07-13",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "#399 \u2012 The evolution of Alzheimer's disease and dementia care: how early detection, personalized treatment, new therapies, and a multimodal approach are changing the landscape | Gayatri Devi, M.D.",
+        "podcast": "The Peter Attia Drive",
+        "relevance_score": 9
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-11",
     "description": "Covering 3 episodes:\n  HBR Ideacast: Leadership Summit 2026: Honest Company CEO Carla Vern\u00f3n on Leading with Focus in Turbulent Times (8/10)\n  The Diary Of A CEO: Most Replayed Moment: Are You Really Gluten Intolerant? It Could Be This Instead! (8/10)\n  Refactoring Podcast: The Rise of Malleable Software \ud83e\udde9 \u2014 with Geoffrey Litt (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-11/briefing-2026-07-11.mp3",
@@ -1213,38 +1230,6 @@
       {
         "title": "Joe Liemandt: Alpha School\u00a0and the Future of Education",
         "podcast": "The knowledge project",
-        "relevance_score": 8
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-01",
-    "description": "Covering 4 episodes:\n  HBR Ideacast: Building a Sustainability Strategy Around Customers (6/10)\n  The Diary Of A CEO: Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat (8/10)\n  Manager Tools: Building Peer Relationships - Part 1 (9/10)\n  Hidden Brain: When It's Okay to Lie (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-01/briefing-2026-04-01.mp3",
-    "audio_size": 1767024,
-    "pub_date": "Wed, 01 Apr 2026 12:25:28 +0000",
-    "duration_seconds": 294.504,
-    "date": "2026-04-01",
-    "episode_count": 4,
-    "episodes": [
-      {
-        "title": "Building a Sustainability Strategy Around Customers",
-        "podcast": "HBR Ideacast",
-        "relevance_score": 6
-      },
-      {
-        "title": "Anti-Aging Expert: Stop Touching Receipts Immediately! The Fast Way To Shrink Visceral Fat",
-        "podcast": "The Diary Of A CEO",
-        "relevance_score": 8
-      },
-      {
-        "title": "Building Peer Relationships - Part 1",
-        "podcast": "Manager Tools",
-        "relevance_score": 9
-      },
-      {
-        "title": "When It's Okay to Lie",
-        "podcast": "Hidden Brain",
         "relevance_score": 8
       }
     ]
