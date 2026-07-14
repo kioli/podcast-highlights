@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-14",
+    "description": "Covering 2 episodes:\n  The Diary Of A CEO: OpenAI Whistleblower FINALLY Speaks: \u201cAI Has A 70% Chance Of Going Horribly Wrong!\u201c (8/10)\n  Hidden Brain: Changing Our Mental Maps (9/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-14/briefing-2026-07-14.mp3",
+    "audio_size": 1730592,
+    "pub_date": "Tue, 14 Jul 2026 11:12:08 +0000",
+    "duration_seconds": 288.432,
+    "date": "2026-07-14",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "OpenAI Whistleblower FINALLY Speaks: \u201cAI Has A 70% Chance Of Going Horribly Wrong!\u201c",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      },
+      {
+        "title": "Changing Our Mental Maps",
+        "podcast": "Hidden Brain",
+        "relevance_score": 9
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-13",
     "description": "Covering 1 episodes:\n  The Peter Attia Drive: #399 \u2012 The evolution of Alzheimer's disease and dementia care: how early detection, personalized treatment, new therapies, and a multimodal approach are changing the landscape | Gayatri Devi, M.D. (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-13/briefing-2026-07-13.mp3",
@@ -1214,23 +1236,6 @@
         "title": "Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan",
         "podcast": "The Diary Of A CEO",
         "relevance_score": 6
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-02",
-    "description": "Covering 1 episodes:\n  The knowledge project: Joe Liemandt: Alpha School\u00a0and the Future of Education (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-02/briefing-2026-04-02.mp3",
-    "audio_size": 1869552,
-    "pub_date": "Thu, 02 Apr 2026 09:34:02 +0000",
-    "duration_seconds": 311.592,
-    "date": "2026-04-02",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "title": "Joe Liemandt: Alpha School\u00a0and the Future of Education",
-        "podcast": "The knowledge project",
-        "relevance_score": 8
       }
     ]
   }
