@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-15",
+    "description": "Covering 1 episodes:\n  Manager Tools: Give Positive Feedback Just For Doing Their Job! - Part 2 (9/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-15/briefing-2026-07-15.mp3",
+    "audio_size": 1533744,
+    "pub_date": "Wed, 15 Jul 2026 09:31:37 +0000",
+    "duration_seconds": 255.624,
+    "date": "2026-07-15",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "Give Positive Feedback Just For Doing Their Job! - Part 2",
+        "podcast": "Manager Tools",
+        "relevance_score": 9
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-14",
     "description": "Covering 2 episodes:\n  The Diary Of A CEO: OpenAI Whistleblower FINALLY Speaks: \u201cAI Has A 70% Chance Of Going Horribly Wrong!\u201c (8/10)\n  Hidden Brain: Changing Our Mental Maps (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-14/briefing-2026-07-14.mp3",
@@ -1214,28 +1231,6 @@
         "title": "Every Engineer Is a Manager Now \ud83e\udd16 \u2014 with Chris Lattner",
         "podcast": "Refactoring Podcast",
         "relevance_score": 8
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-03",
-    "description": "Covering 2 episodes:\n  HBR Ideacast: Strategy Summit 2026: Who\u2019s Going to Succeed with AI? (8/10)\n  The Diary Of A CEO: Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan (6/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-03/briefing-2026-04-03.mp3",
-    "audio_size": 1588896,
-    "pub_date": "Fri, 03 Apr 2026 08:43:44 +0000",
-    "duration_seconds": 264.816,
-    "date": "2026-04-03",
-    "episode_count": 2,
-    "episodes": [
-      {
-        "title": "Strategy Summit 2026: Who\u2019s Going to Succeed with AI?",
-        "podcast": "HBR Ideacast",
-        "relevance_score": 8
-      },
-      {
-        "title": "Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan",
-        "podcast": "The Diary Of A CEO",
-        "relevance_score": 6
       }
     ]
   }

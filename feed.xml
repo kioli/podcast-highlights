@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-15</title>
+      <description>Covering 1 episodes:
+  Manager Tools: Give Positive Feedback Just For Doing Their Job! - Part 2 (9/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-15/briefing-2026-07-15.mp3" length="1533744" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jul 2026 09:31:37 +0000</pubDate>
+      <itunes:duration>255</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  Manager Tools: Give Positive Feedback Just For Doing Their Job! - Part 2 (9/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-14</title>
       <description>Covering 2 episodes:
   The Diary Of A CEO: OpenAI Whistleblower FINALLY Speaks: “AI Has A 70% Chance Of Going Horribly Wrong!“ (8/10)
@@ -685,18 +695,6 @@
       <itunes:duration>272</itunes:duration>
       <itunes:summary>Covering 1 episodes:
   Refactoring Podcast: Every Engineer Is a Manager Now 🤖 — with Chris Lattner (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-03</title>
-      <description>Covering 2 episodes:
-  HBR Ideacast: Strategy Summit 2026: Who’s Going to Succeed with AI? (8/10)
-  The Diary Of A CEO: Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan (6/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-03/briefing-2026-04-03.mp3" length="1588896" type="audio/mpeg"/>
-      <pubDate>Fri, 03 Apr 2026 08:43:44 +0000</pubDate>
-      <itunes:duration>264</itunes:duration>
-      <itunes:summary>Covering 2 episodes:
-  HBR Ideacast: Strategy Summit 2026: Who’s Going to Succeed with AI? (8/10)
-  The Diary Of A CEO: Most Replayed Moment: Mouthwash REVERSES The Benefits Of Exercise! Dr Nathan Bryan (6/10)</itunes:summary>
     </item>
   </channel>
 </rss>
