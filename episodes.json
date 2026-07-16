@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-16",
+    "description": "Covering 1 episodes:\n  HBR Ideacast: The New Rules for Becoming an Enterprise Leader (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-16/briefing-2026-07-16.mp3",
+    "audio_size": 1344816,
+    "pub_date": "Thu, 16 Jul 2026 09:43:29 +0000",
+    "duration_seconds": 224.136,
+    "date": "2026-07-16",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "The New Rules for Becoming an Enterprise Leader",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-15",
     "description": "Covering 1 episodes:\n  Manager Tools: Give Positive Feedback Just For Doing Their Job! - Part 2 (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-15/briefing-2026-07-15.mp3",
@@ -1213,23 +1230,6 @@
       {
         "title": "#386 - Aging clocks\u2014what they measure, how they work, and their clinical and real-world relevance",
         "podcast": "The Peter Attia Drive",
-        "relevance_score": 8
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-04",
-    "description": "Covering 1 episodes:\n  Refactoring Podcast: Every Engineer Is a Manager Now \ud83e\udd16 \u2014 with Chris Lattner (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-04/briefing-2026-04-04.mp3",
-    "audio_size": 1633248,
-    "pub_date": "Sat, 04 Apr 2026 08:30:04 +0000",
-    "duration_seconds": 272.208,
-    "date": "2026-04-04",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "title": "Every Engineer Is a Manager Now \ud83e\udd16 \u2014 with Chris Lattner",
-        "podcast": "Refactoring Podcast",
         "relevance_score": 8
       }
     ]

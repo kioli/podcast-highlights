@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-16</title>
+      <description>Covering 1 episodes:
+  HBR Ideacast: The New Rules for Becoming an Enterprise Leader (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-16/briefing-2026-07-16.mp3" length="1344816" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jul 2026 09:43:29 +0000</pubDate>
+      <itunes:duration>224</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  HBR Ideacast: The New Rules for Becoming an Enterprise Leader (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-15</title>
       <description>Covering 1 episodes:
   Manager Tools: Give Positive Feedback Just For Doing Their Job! - Part 2 (9/10)</description>
@@ -685,16 +695,6 @@
       <itunes:summary>Covering 2 episodes:
   The Diary Of A CEO: Financial Crash Expert: In 3 months We’ll Enter A Famine! If Iran Doesn’t Surrender It&apos;s The End! (8/10)
   The Peter Attia Drive: #386 - Aging clocks—what they measure, how they work, and their clinical and real-world relevance (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-04</title>
-      <description>Covering 1 episodes:
-  Refactoring Podcast: Every Engineer Is a Manager Now 🤖 — with Chris Lattner (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-04/briefing-2026-04-04.mp3" length="1633248" type="audio/mpeg"/>
-      <pubDate>Sat, 04 Apr 2026 08:30:04 +0000</pubDate>
-      <itunes:duration>272</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  Refactoring Podcast: Every Engineer Is a Manager Now 🤖 — with Chris Lattner (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>
