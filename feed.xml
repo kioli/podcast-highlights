@@ -11,6 +11,18 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-18</title>
+      <description>Covering 2 episodes:
+  The Diary Of A CEO: Most Replayed Moment: The Framework To Instantly Become Better At Conversation! (8/10)
+  Refactoring Podcast: Speed Is the Only Moat 🏎️ — with Anush Elangovan (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-18/briefing-2026-07-18.mp3" length="1490256" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Jul 2026 09:48:35 +0000</pubDate>
+      <itunes:duration>248</itunes:duration>
+      <itunes:summary>Covering 2 episodes:
+  The Diary Of A CEO: Most Replayed Moment: The Framework To Instantly Become Better At Conversation! (8/10)
+  Refactoring Podcast: Speed Is the Only Moat 🏎️ — with Anush Elangovan (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-16</title>
       <description>Covering 1 episodes:
   HBR Ideacast: The New Rules for Becoming an Enterprise Leader (8/10)</description>
@@ -683,18 +695,6 @@
       <itunes:summary>Covering 2 episodes:
   Manager Tools: Building Peer Relationships - Part 2 (9/10)
   Hidden Brain: The Debt Trap (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-06</title>
-      <description>Covering 2 episodes:
-  The Diary Of A CEO: Financial Crash Expert: In 3 months We’ll Enter A Famine! If Iran Doesn’t Surrender It&apos;s The End! (8/10)
-  The Peter Attia Drive: #386 - Aging clocks—what they measure, how they work, and their clinical and real-world relevance (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-06/briefing-2026-04-06.mp3" length="1553616" type="audio/mpeg"/>
-      <pubDate>Mon, 06 Apr 2026 10:12:19 +0000</pubDate>
-      <itunes:duration>258</itunes:duration>
-      <itunes:summary>Covering 2 episodes:
-  The Diary Of A CEO: Financial Crash Expert: In 3 months We’ll Enter A Famine! If Iran Doesn’t Surrender It&apos;s The End! (8/10)
-  The Peter Attia Drive: #386 - Aging clocks—what they measure, how they work, and their clinical and real-world relevance (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>

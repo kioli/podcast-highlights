@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-18",
+    "description": "Covering 2 episodes:\n  The Diary Of A CEO: Most Replayed Moment: The Framework To Instantly Become Better At Conversation! (8/10)\n  Refactoring Podcast: Speed Is the Only Moat \ud83c\udfce\ufe0f \u2014 with Anush Elangovan (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-18/briefing-2026-07-18.mp3",
+    "audio_size": 1490256,
+    "pub_date": "Sat, 18 Jul 2026 09:48:35 +0000",
+    "duration_seconds": 248.376,
+    "date": "2026-07-18",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "Most Replayed Moment: The Framework To Instantly Become Better At Conversation!",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      },
+      {
+        "title": "Speed Is the Only Moat \ud83c\udfce\ufe0f \u2014 with Anush Elangovan",
+        "podcast": "Refactoring Podcast",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-16",
     "description": "Covering 1 episodes:\n  HBR Ideacast: The New Rules for Becoming an Enterprise Leader (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-16/briefing-2026-07-16.mp3",
@@ -1208,28 +1230,6 @@
       {
         "title": "The Debt Trap",
         "podcast": "Hidden Brain",
-        "relevance_score": 8
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-06",
-    "description": "Covering 2 episodes:\n  The Diary Of A CEO: Financial Crash Expert: In 3 months We\u2019ll Enter A Famine! If Iran Doesn\u2019t Surrender It's The End! (8/10)\n  The Peter Attia Drive: #386 - Aging clocks\u2014what they measure, how they work, and their clinical and real-world relevance (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-06/briefing-2026-04-06.mp3",
-    "audio_size": 1553616,
-    "pub_date": "Mon, 06 Apr 2026 10:12:19 +0000",
-    "duration_seconds": 258.936,
-    "date": "2026-04-06",
-    "episode_count": 2,
-    "episodes": [
-      {
-        "title": "Financial Crash Expert: In 3 months We\u2019ll Enter A Famine! If Iran Doesn\u2019t Surrender It's The End!",
-        "podcast": "The Diary Of A CEO",
-        "relevance_score": 8
-      },
-      {
-        "title": "#386 - Aging clocks\u2014what they measure, how they work, and their clinical and real-world relevance",
-        "podcast": "The Peter Attia Drive",
         "relevance_score": 8
       }
     ]
