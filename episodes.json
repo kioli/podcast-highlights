@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-19",
+    "description": "Covering 1 episodes:\n  HBR Ideacast: Leadership Summit 2026: AT&T CEO John Stankey on Developing Technology and Talent in the AI Era (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-19/briefing-2026-07-19.mp3",
+    "audio_size": 1762416,
+    "pub_date": "Sun, 19 Jul 2026 09:34:13 +0000",
+    "duration_seconds": 293.736,
+    "date": "2026-07-19",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "Leadership Summit 2026: AT&T CEO John Stankey on Developing Technology and Talent in the AI Era",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-18",
     "description": "Covering 2 episodes:\n  The Diary Of A CEO: Most Replayed Moment: The Framework To Instantly Become Better At Conversation! (8/10)\n  Refactoring Podcast: Speed Is the Only Moat \ud83c\udfce\ufe0f \u2014 with Anush Elangovan (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-18/briefing-2026-07-18.mp3",
@@ -1209,28 +1226,6 @@
         "title": "The Case for Designing Work Around Circadian Rhythms",
         "podcast": "HBR Ideacast",
         "relevance_score": 6
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-07",
-    "description": "Covering 2 episodes:\n  Manager Tools: Building Peer Relationships - Part 2 (9/10)\n  Hidden Brain: The Debt Trap (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-07/briefing-2026-04-07.mp3",
-    "audio_size": 1961424,
-    "pub_date": "Tue, 07 Apr 2026 09:40:39 +0000",
-    "duration_seconds": 326.904,
-    "date": "2026-04-07",
-    "episode_count": 2,
-    "episodes": [
-      {
-        "title": "Building Peer Relationships - Part 2",
-        "podcast": "Manager Tools",
-        "relevance_score": 9
-      },
-      {
-        "title": "The Debt Trap",
-        "podcast": "Hidden Brain",
-        "relevance_score": 8
       }
     ]
   }

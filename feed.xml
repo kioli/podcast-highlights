@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-19</title>
+      <description>Covering 1 episodes:
+  HBR Ideacast: Leadership Summit 2026: AT&amp;T CEO John Stankey on Developing Technology and Talent in the AI Era (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-19/briefing-2026-07-19.mp3" length="1762416" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 09:34:13 +0000</pubDate>
+      <itunes:duration>293</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  HBR Ideacast: Leadership Summit 2026: AT&amp;T CEO John Stankey on Developing Technology and Talent in the AI Era (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-18</title>
       <description>Covering 2 episodes:
   The Diary Of A CEO: Most Replayed Moment: The Framework To Instantly Become Better At Conversation! (8/10)
@@ -683,18 +693,6 @@
       <itunes:duration>196</itunes:duration>
       <itunes:summary>Covering 1 episodes:
   HBR Ideacast: The Case for Designing Work Around Circadian Rhythms (6/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-07</title>
-      <description>Covering 2 episodes:
-  Manager Tools: Building Peer Relationships - Part 2 (9/10)
-  Hidden Brain: The Debt Trap (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-07/briefing-2026-04-07.mp3" length="1961424" type="audio/mpeg"/>
-      <pubDate>Tue, 07 Apr 2026 09:40:39 +0000</pubDate>
-      <itunes:duration>326</itunes:duration>
-      <itunes:summary>Covering 2 episodes:
-  Manager Tools: Building Peer Relationships - Part 2 (9/10)
-  Hidden Brain: The Debt Trap (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>
