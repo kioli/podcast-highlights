@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-20</title>
+      <description>Covering 1 episodes:
+  The Peter Attia Drive: #400 ‒ AMA #87: Environmental pollution and longevity: air pollution, noise, light, EMFs, and practical strategies to mitigate health risks (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-20/briefing-2026-07-20.mp3" length="1291392" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 10:18:08 +0000</pubDate>
+      <itunes:duration>215</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The Peter Attia Drive: #400 ‒ AMA #87: Environmental pollution and longevity: air pollution, noise, light, EMFs, and practical strategies to mitigate health risks (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-19</title>
       <description>Covering 1 episodes:
   HBR Ideacast: Leadership Summit 2026: AT&amp;T CEO John Stankey on Developing Technology and Talent in the AI Era (8/10)</description>
@@ -683,16 +693,6 @@
       <itunes:duration>211</itunes:duration>
       <itunes:summary>Covering 1 episodes:
   The Diary Of A CEO: Most Replayed Moment: Your Thoughts Shape Your Reality! How To Rewrite Limiting Beliefs (6/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-08</title>
-      <description>Covering 1 episodes:
-  HBR Ideacast: The Case for Designing Work Around Circadian Rhythms (6/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-08/briefing-2026-04-08.mp3" length="1178928" type="audio/mpeg"/>
-      <pubDate>Wed, 08 Apr 2026 08:37:44 +0000</pubDate>
-      <itunes:duration>196</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  HBR Ideacast: The Case for Designing Work Around Circadian Rhythms (6/10)</itunes:summary>
     </item>
   </channel>
 </rss>

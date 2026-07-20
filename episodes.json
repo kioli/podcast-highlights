@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-20",
+    "description": "Covering 1 episodes:\n  The Peter Attia Drive: #400 \u2012 AMA #87: Environmental pollution and longevity: air pollution, noise, light, EMFs, and practical strategies to mitigate health risks (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-20/briefing-2026-07-20.mp3",
+    "audio_size": 1291392,
+    "pub_date": "Mon, 20 Jul 2026 10:18:08 +0000",
+    "duration_seconds": 215.232,
+    "date": "2026-07-20",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "#400 \u2012 AMA #87: Environmental pollution and longevity: air pollution, noise, light, EMFs, and practical strategies to mitigate health risks",
+        "podcast": "The Peter Attia Drive",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-19",
     "description": "Covering 1 episodes:\n  HBR Ideacast: Leadership Summit 2026: AT&T CEO John Stankey on Developing Technology and Talent in the AI Era (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-19/briefing-2026-07-19.mp3",
@@ -1208,23 +1225,6 @@
       {
         "title": "Most Replayed Moment: Your Thoughts Shape Your Reality! How To Rewrite Limiting Beliefs",
         "podcast": "The Diary Of A CEO",
-        "relevance_score": 6
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-08",
-    "description": "Covering 1 episodes:\n  HBR Ideacast: The Case for Designing Work Around Circadian Rhythms (6/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-08/briefing-2026-04-08.mp3",
-    "audio_size": 1178928,
-    "pub_date": "Wed, 08 Apr 2026 08:37:44 +0000",
-    "duration_seconds": 196.488,
-    "date": "2026-04-08",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "title": "The Case for Designing Work Around Circadian Rhythms",
-        "podcast": "HBR Ideacast",
         "relevance_score": 6
       }
     ]
