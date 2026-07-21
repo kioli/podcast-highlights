@@ -11,6 +11,20 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-21</title>
+      <description>Covering 3 episodes:
+  The Diary Of A CEO: The Man Who Made $100M Before 32: The Secret Was To Stop Letting Them Control Me | Alex Hormozi (8/10)
+  Manager Tools: Culture Chapter 3 - Performance! (9/10)
+  Hidden Brain: How to Combat Pain (9/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-21/briefing-2026-07-21.mp3" length="2082672" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jul 2026 11:42:58 +0000</pubDate>
+      <itunes:duration>347</itunes:duration>
+      <itunes:summary>Covering 3 episodes:
+  The Diary Of A CEO: The Man Who Made $100M Before 32: The Secret Was To Stop Letting Them Control Me | Alex Hormozi (8/10)
+  Manager Tools: Culture Chapter 3 - Performance! (9/10)
+  Hidden Brain: How to Combat Pain (9/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-20</title>
       <description>Covering 1 episodes:
   The Peter Attia Drive: #400 ‒ AMA #87: Environmental pollution and longevity: air pollution, noise, light, EMFs, and practical strategies to mitigate health risks (8/10)</description>
@@ -683,16 +697,6 @@
       <itunes:summary>Covering 2 episodes:
   The Diary Of A CEO: The Iran War Expert: The Most Dangerous Stage Begins Now (8/10)
   The Peter Attia Drive: #387 - AMA #83: Peptides—evaluating the science, safety, and hype in a rapidly growing field (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-10</title>
-      <description>Covering 1 episodes:
-  The Diary Of A CEO: Most Replayed Moment: Your Thoughts Shape Your Reality! How To Rewrite Limiting Beliefs (6/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-10/briefing-2026-04-10.mp3" length="1269504" type="audio/mpeg"/>
-      <pubDate>Fri, 10 Apr 2026 08:43:03 +0000</pubDate>
-      <itunes:duration>211</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  The Diary Of A CEO: Most Replayed Moment: Your Thoughts Shape Your Reality! How To Rewrite Limiting Beliefs (6/10)</itunes:summary>
     </item>
   </channel>
 </rss>
