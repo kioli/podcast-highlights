@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-22</title>
+      <description>Covering 1 episodes:
+  The knowledge project: Truth Over Feelings: Inside Opendoor’s Massive Turnaround (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-22/briefing-2026-07-22.mp3" length="1343376" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jul 2026 10:02:19 +0000</pubDate>
+      <itunes:duration>223</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The knowledge project: Truth Over Feelings: Inside Opendoor’s Massive Turnaround (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-21</title>
       <description>Covering 3 episodes:
   The Diary Of A CEO: The Man Who Made $100M Before 32: The Secret Was To Stop Letting Them Control Me | Alex Hormozi (8/10)
@@ -685,18 +695,6 @@
       <itunes:duration>287</itunes:duration>
       <itunes:summary>Covering 1 episodes:
   Hidden Brain: How to Change the World (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-13</title>
-      <description>Covering 2 episodes:
-  The Diary Of A CEO: The Iran War Expert: The Most Dangerous Stage Begins Now (8/10)
-  The Peter Attia Drive: #387 - AMA #83: Peptides—evaluating the science, safety, and hype in a rapidly growing field (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-13/briefing-2026-04-13.mp3" length="1509696" type="audio/mpeg"/>
-      <pubDate>Mon, 13 Apr 2026 10:09:23 +0000</pubDate>
-      <itunes:duration>251</itunes:duration>
-      <itunes:summary>Covering 2 episodes:
-  The Diary Of A CEO: The Iran War Expert: The Most Dangerous Stage Begins Now (8/10)
-  The Peter Attia Drive: #387 - AMA #83: Peptides—evaluating the science, safety, and hype in a rapidly growing field (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>

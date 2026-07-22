@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-22",
+    "description": "Covering 1 episodes:\n  The knowledge project: Truth Over Feelings: Inside Opendoor\u2019s Massive Turnaround (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-22/briefing-2026-07-22.mp3",
+    "audio_size": 1343376,
+    "pub_date": "Wed, 22 Jul 2026 10:02:19 +0000",
+    "duration_seconds": 223.896,
+    "date": "2026-07-22",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "Truth Over Feelings: Inside Opendoor\u2019s Massive Turnaround",
+        "podcast": "The knowledge project",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-21",
     "description": "Covering 3 episodes:\n  The Diary Of A CEO: The Man Who Made $100M Before 32: The Secret Was To Stop Letting Them Control Me | Alex Hormozi (8/10)\n  Manager Tools: Culture Chapter 3 - Performance! (9/10)\n  Hidden Brain: How to Combat Pain (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-21/briefing-2026-07-21.mp3",
@@ -1213,28 +1230,6 @@
       {
         "title": "How to Change the World",
         "podcast": "Hidden Brain",
-        "relevance_score": 8
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-13",
-    "description": "Covering 2 episodes:\n  The Diary Of A CEO: The Iran War Expert: The Most Dangerous Stage Begins Now (8/10)\n  The Peter Attia Drive: #387 - AMA #83: Peptides\u2014evaluating the science, safety, and hype in a rapidly growing field (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-13/briefing-2026-04-13.mp3",
-    "audio_size": 1509696,
-    "pub_date": "Mon, 13 Apr 2026 10:09:23 +0000",
-    "duration_seconds": 251.616,
-    "date": "2026-04-13",
-    "episode_count": 2,
-    "episodes": [
-      {
-        "title": "The Iran War Expert: The Most Dangerous Stage Begins Now",
-        "podcast": "The Diary Of A CEO",
-        "relevance_score": 8
-      },
-      {
-        "title": "#387 - AMA #83: Peptides\u2014evaluating the science, safety, and hype in a rapidly growing field",
-        "podcast": "The Peter Attia Drive",
         "relevance_score": 8
       }
     ]
