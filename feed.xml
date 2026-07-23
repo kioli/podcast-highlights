@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-23</title>
+      <description>Covering 1 episodes:
+  HBR Ideacast: Why Great Leaders Need More Than Good Judgment (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-23/briefing-2026-07-23.mp3" length="1505520" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Jul 2026 09:49:35 +0000</pubDate>
+      <itunes:duration>250</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  HBR Ideacast: Why Great Leaders Need More Than Good Judgment (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-22</title>
       <description>Covering 1 episodes:
   The knowledge project: Truth Over Feelings: Inside Opendoor’s Massive Turnaround (8/10)</description>
@@ -685,16 +695,6 @@
   HBR Ideacast: To Gain Customer—and Employee—Loyalty, Go Beyond Good Enough (6/10)
   The knowledge project: Mario Harik: Playing to Win (8/10)
   Manager Tools: Network Building - The St. Jude Rule (9/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-14</title>
-      <description>Covering 1 episodes:
-  Hidden Brain: How to Change the World (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-14/briefing-2026-04-14.mp3" length="1724976" type="audio/mpeg"/>
-      <pubDate>Tue, 14 Apr 2026 09:24:34 +0000</pubDate>
-      <itunes:duration>287</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  Hidden Brain: How to Change the World (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>
