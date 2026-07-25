@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-25",
+    "description": "Covering 2 episodes:\n  HBR Ideacast: Leadership Summit 2026: Inspiring Grit and Growth Amid Unprecedented Change (8/10)\n  The Diary Of A CEO: Most Replayed Moment: Matthew McConaughey - The Comfort Crisis Is Destroying Your Potential! (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-25/briefing-2026-07-25.mp3",
+    "audio_size": 2083248,
+    "pub_date": "Sat, 25 Jul 2026 09:40:14 +0000",
+    "duration_seconds": 347.208,
+    "date": "2026-07-25",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "Leadership Summit 2026: Inspiring Grit and Growth Amid Unprecedented Change",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 8
+      },
+      {
+        "title": "Most Replayed Moment: Matthew McConaughey - The Comfort Crisis Is Destroying Your Potential!",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-23",
     "description": "Covering 1 episodes:\n  HBR Ideacast: Why Great Leaders Need More Than Good Judgment (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-23/briefing-2026-07-23.mp3",
@@ -1204,33 +1226,6 @@
         "title": "World Collapse Expert (Ian Bremmer): The Real Crisis Is What Comes After Trump",
         "podcast": "The Diary Of A CEO",
         "relevance_score": 6
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-15",
-    "description": "Covering 3 episodes:\n  HBR Ideacast: To Gain Customer\u2014and Employee\u2014Loyalty, Go Beyond Good Enough (6/10)\n  The knowledge project: Mario Harik: Playing to Win (8/10)\n  Manager Tools: Network Building - The St. Jude Rule (9/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-15/briefing-2026-04-15.mp3",
-    "audio_size": 1766304,
-    "pub_date": "Wed, 15 Apr 2026 10:11:25 +0000",
-    "duration_seconds": 294.384,
-    "date": "2026-04-15",
-    "episode_count": 3,
-    "episodes": [
-      {
-        "title": "To Gain Customer\u2014and Employee\u2014Loyalty, Go Beyond Good Enough",
-        "podcast": "HBR Ideacast",
-        "relevance_score": 6
-      },
-      {
-        "title": "Mario Harik: Playing to Win",
-        "podcast": "The knowledge project",
-        "relevance_score": 8
-      },
-      {
-        "title": "Network Building - The St. Jude Rule",
-        "podcast": "Manager Tools",
-        "relevance_score": 9
       }
     ]
   }
