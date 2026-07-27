@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-27</title>
+      <description>Covering 1 episodes:
+  The Diary Of A CEO: Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! (9/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-27/briefing-2026-07-27.mp3" length="1422288" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 11:52:30 +0000</pubDate>
+      <itunes:duration>237</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The Diary Of A CEO: Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! (9/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-25</title>
       <description>Covering 2 episodes:
   HBR Ideacast: Leadership Summit 2026: Inspiring Grit and Growth Amid Unprecedented Change (8/10)
@@ -683,16 +693,6 @@
       <itunes:summary>Covering 2 episodes:
   The Diary Of A CEO: Most Replayed Moment: Insulin Is The Reason You&apos;re Gaining Fat! How To Lower It Now (6/10)
   Refactoring Podcast: AI Coding meets Code Health 🪄 — with Stuart Caborn (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-17</title>
-      <description>Covering 1 episodes:
-  The Diary Of A CEO: World Collapse Expert (Ian Bremmer): The Real Crisis Is What Comes After Trump (6/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-17/briefing-2026-04-17.mp3" length="977040" type="audio/mpeg"/>
-      <pubDate>Fri, 17 Apr 2026 09:30:05 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  The Diary Of A CEO: World Collapse Expert (Ian Bremmer): The Real Crisis Is What Comes After Trump (6/10)</itunes:summary>
     </item>
   </channel>
 </rss>
