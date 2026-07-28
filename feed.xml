@@ -11,6 +11,20 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-28</title>
+      <description>Covering 3 episodes:
+  Manager Tools: Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness (8/10)
+  Hidden Brain: You Are Not Ordinary (8/10)
+  The Peter Attia Drive: #401 ‒ How curiosity transforms medicine: extraordinary discoveries that changed modern healthcare (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-28/briefing-2026-07-28.mp3" length="1675872" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jul 2026 11:17:37 +0000</pubDate>
+      <itunes:duration>279</itunes:duration>
+      <itunes:summary>Covering 3 episodes:
+  Manager Tools: Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness (8/10)
+  Hidden Brain: You Are Not Ordinary (8/10)
+  The Peter Attia Drive: #401 ‒ How curiosity transforms medicine: extraordinary discoveries that changed modern healthcare (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-27</title>
       <description>Covering 1 episodes:
   The Diary Of A CEO: Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! (9/10)</description>
@@ -681,18 +695,6 @@
       <itunes:summary>Covering 2 episodes:
   The Diary Of A CEO: The Peptide Expert: Big Pharma Are Hiding This Powerful Peptide From You! - Dr. Alex Tatem (6/10)
   Hidden Brain: Do You Feel Loved? (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-18</title>
-      <description>Covering 2 episodes:
-  The Diary Of A CEO: Most Replayed Moment: Insulin Is The Reason You&apos;re Gaining Fat! How To Lower It Now (6/10)
-  Refactoring Podcast: AI Coding meets Code Health 🪄 — with Stuart Caborn (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-18/briefing-2026-04-18.mp3" length="1732752" type="audio/mpeg"/>
-      <pubDate>Sat, 18 Apr 2026 08:57:38 +0000</pubDate>
-      <itunes:duration>288</itunes:duration>
-      <itunes:summary>Covering 2 episodes:
-  The Diary Of A CEO: Most Replayed Moment: Insulin Is The Reason You&apos;re Gaining Fat! How To Lower It Now (6/10)
-  Refactoring Podcast: AI Coding meets Code Health 🪄 — with Stuart Caborn (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>

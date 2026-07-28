@@ -1,5 +1,32 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-07-28",
+    "description": "Covering 3 episodes:\n  Manager Tools: Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness (8/10)\n  Hidden Brain: You Are Not Ordinary (8/10)\n  The Peter Attia Drive: #401 \u2012 How curiosity transforms medicine: extraordinary discoveries that changed modern healthcare (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-28/briefing-2026-07-28.mp3",
+    "audio_size": 1675872,
+    "pub_date": "Tue, 28 Jul 2026 11:17:37 +0000",
+    "duration_seconds": 279.312,
+    "date": "2026-07-28",
+    "episode_count": 3,
+    "episodes": [
+      {
+        "title": "Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness",
+        "podcast": "Manager Tools",
+        "relevance_score": 8
+      },
+      {
+        "title": "You Are Not Ordinary",
+        "podcast": "Hidden Brain",
+        "relevance_score": 8
+      },
+      {
+        "title": "#401 \u2012 How curiosity transforms medicine: extraordinary discoveries that changed modern healthcare",
+        "podcast": "The Peter Attia Drive",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-07-27",
     "description": "Covering 1 episodes:\n  The Diary Of A CEO: Vitamin D Expert: The Supplement World Is Giving The WRONG Advice! (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-27/briefing-2026-07-27.mp3",
@@ -1203,28 +1230,6 @@
       {
         "title": "Do You Feel Loved?",
         "podcast": "Hidden Brain",
-        "relevance_score": 8
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-18",
-    "description": "Covering 2 episodes:\n  The Diary Of A CEO: Most Replayed Moment: Insulin Is The Reason You're Gaining Fat! How To Lower It Now (6/10)\n  Refactoring Podcast: AI Coding meets Code Health \ud83e\ude84 \u2014 with Stuart Caborn (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-18/briefing-2026-04-18.mp3",
-    "audio_size": 1732752,
-    "pub_date": "Sat, 18 Apr 2026 08:57:38 +0000",
-    "duration_seconds": 288.792,
-    "date": "2026-04-18",
-    "episode_count": 2,
-    "episodes": [
-      {
-        "title": "Most Replayed Moment: Insulin Is The Reason You're Gaining Fat! How To Lower It Now",
-        "podcast": "The Diary Of A CEO",
-        "relevance_score": 6
-      },
-      {
-        "title": "AI Coding meets Code Health \ud83e\ude84 \u2014 with Stuart Caborn",
-        "podcast": "Refactoring Podcast",
         "relevance_score": 8
       }
     ]
