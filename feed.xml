@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-07-30</title>
+      <description>Covering 1 episodes:
+  The knowledge project: John D. Rockefeller: The Principles Behind The Greatest Fortune in History (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-07-30/briefing-2026-07-30.mp3" length="1400400" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jul 2026 11:06:54 +0000</pubDate>
+      <itunes:duration>233</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The knowledge project: John D. Rockefeller: The Principles Behind The Greatest Fortune in History (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-07-28</title>
       <description>Covering 3 episodes:
   Manager Tools: Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness (8/10)
@@ -683,18 +693,6 @@
   HBR Ideacast: What Sets Superteams Apart from the Rest (6/10)
   Manager Tools: Fill The Vacuum! - Communicate Your Vision - Chapter 1 (9/10)
   The Peter Attia Drive: #388 — Prostate cancer screening: why current PSA guidelines are failing men and how modern tools improve early detection and save lives (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-21</title>
-      <description>Covering 2 episodes:
-  The Diary Of A CEO: The Peptide Expert: Big Pharma Are Hiding This Powerful Peptide From You! - Dr. Alex Tatem (6/10)
-  Hidden Brain: Do You Feel Loved? (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-21/briefing-2026-04-21.mp3" length="1404576" type="audio/mpeg"/>
-      <pubDate>Tue, 21 Apr 2026 11:21:52 +0000</pubDate>
-      <itunes:duration>234</itunes:duration>
-      <itunes:summary>Covering 2 episodes:
-  The Diary Of A CEO: The Peptide Expert: Big Pharma Are Hiding This Powerful Peptide From You! - Dr. Alex Tatem (6/10)
-  Hidden Brain: Do You Feel Loved? (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>
