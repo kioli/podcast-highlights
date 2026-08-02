@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-08-02",
+    "description": "Covering 1 episodes:\n  HBR Ideacast: Introducing The Founder Mindset: Tim Ferriss on Experiments, Risk, and Freedom (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-02/briefing-2026-08-02.mp3",
+    "audio_size": 1387008,
+    "pub_date": "Sun, 02 Aug 2026 09:35:42 +0000",
+    "duration_seconds": 231.168,
+    "date": "2026-08-02",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "Introducing The Founder Mindset: Tim Ferriss on Experiments, Risk, and Freedom",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-08-01",
     "description": "Covering 1 episodes:\n  The Diary Of A CEO: Most Replayed Moment: Ex-CIA Reveals What Spies Know About Human Nature (6/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-01/briefing-2026-08-01.mp3",
@@ -1199,23 +1216,6 @@
         "title": "Most Replayed Moment: Neuroscientist\u2019s Proof Of Life After Death! Dr Tara Swart",
         "podcast": "The Diary Of A CEO",
         "relevance_score": 2
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-23",
-    "description": "Covering 1 episodes:\n  The knowledge project: Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-23/briefing-2026-04-23.mp3",
-    "audio_size": 1962864,
-    "pub_date": "Thu, 23 Apr 2026 09:42:29 +0000",
-    "duration_seconds": 327.144,
-    "date": "2026-04-23",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-        "podcast": "The knowledge project",
-        "relevance_score": 8
       }
     ]
   }
