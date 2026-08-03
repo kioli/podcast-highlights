@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-08-03</title>
+      <description>Covering 1 episodes:
+  The Diary Of A CEO: Secretary Pete Buttigieg: The American Dream Is DEAD. We&apos;re Running Out Of Time To Fix It! (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-03/briefing-2026-08-03.mp3" length="1476864" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 11:52:40 +0000</pubDate>
+      <itunes:duration>246</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The Diary Of A CEO: Secretary Pete Buttigieg: The American Dream Is DEAD. We&apos;re Running Out Of Time To Fix It! (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-08-02</title>
       <description>Covering 1 episodes:
   HBR Ideacast: Introducing The Founder Mindset: Tim Ferriss on Experiments, Risk, and Freedom (8/10)</description>
@@ -679,16 +689,6 @@
   Manager Tools: Job Requirements - Beware The Ratchet! (8/10)
   Hidden Brain: Designing a Life that Matters (8/10)
   The Peter Attia Drive: #389 - Thinking scientifically: why it&apos;s hard, why it matters, and a practical toolkit (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-26</title>
-      <description>Covering 1 episodes:
-  The Diary Of A CEO: Most Replayed Moment: Neuroscientist’s Proof Of Life After Death! Dr Tara Swart (2/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-26/briefing-2026-04-26.mp3" length="1010016" type="audio/mpeg"/>
-      <pubDate>Sun, 26 Apr 2026 08:44:09 +0000</pubDate>
-      <itunes:duration>168</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  The Diary Of A CEO: Most Replayed Moment: Neuroscientist’s Proof Of Life After Death! Dr Tara Swart (2/10)</itunes:summary>
     </item>
   </channel>
 </rss>
