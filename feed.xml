@@ -11,6 +11,18 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-08-04</title>
+      <description>Covering 2 episodes:
+  Hidden Brain: Making the Most of Your Mistakes (8/10)
+  The Peter Attia Drive: #402 ‒ NMR blood analysis: how heart disease risk, insulin resistance, inflammation, and mortality risk can be assessed from a single blood sample | Jim Otvos, Ph.D. (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-04/briefing-2026-08-04.mp3" length="1755792" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Aug 2026 11:13:42 +0000</pubDate>
+      <itunes:duration>292</itunes:duration>
+      <itunes:summary>Covering 2 episodes:
+  Hidden Brain: Making the Most of Your Mistakes (8/10)
+  The Peter Attia Drive: #402 ‒ NMR blood analysis: how heart disease risk, insulin resistance, inflammation, and mortality risk can be assessed from a single blood sample | Jim Otvos, Ph.D. (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-08-03</title>
       <description>Covering 1 episodes:
   The Diary Of A CEO: Secretary Pete Buttigieg: The American Dream Is DEAD. We&apos;re Running Out Of Time To Fix It! (8/10)</description>
@@ -673,22 +685,6 @@
       <itunes:duration>212</itunes:duration>
       <itunes:summary>Covering 1 episodes:
   HBR Ideacast: Why Your Team Won’t Speak Up (And How to Fix It) (9/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-28</title>
-      <description>Covering 4 episodes:
-  The Diary Of A CEO: Sex Scientist: Phone Addiction Is Killing Your Sex Life More Than Porn! (6/10)
-  Manager Tools: Job Requirements - Beware The Ratchet! (8/10)
-  Hidden Brain: Designing a Life that Matters (8/10)
-  The Peter Attia Drive: #389 - Thinking scientifically: why it&apos;s hard, why it matters, and a practical toolkit (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-28/briefing-2026-04-28.mp3" length="2228832" type="audio/mpeg"/>
-      <pubDate>Tue, 28 Apr 2026 11:50:43 +0000</pubDate>
-      <itunes:duration>371</itunes:duration>
-      <itunes:summary>Covering 4 episodes:
-  The Diary Of A CEO: Sex Scientist: Phone Addiction Is Killing Your Sex Life More Than Porn! (6/10)
-  Manager Tools: Job Requirements - Beware The Ratchet! (8/10)
-  Hidden Brain: Designing a Life that Matters (8/10)
-  The Peter Attia Drive: #389 - Thinking scientifically: why it&apos;s hard, why it matters, and a practical toolkit (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>
