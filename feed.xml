@@ -11,6 +11,18 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-08-05</title>
+      <description>Covering 2 episodes:
+  The knowledge project: The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs (8/10)
+  Manager Tools: Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness - Part 2 (9/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-05/briefing-2026-08-05.mp3" length="1987200" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Aug 2026 11:02:27 +0000</pubDate>
+      <itunes:duration>331</itunes:duration>
+      <itunes:summary>Covering 2 episodes:
+  The knowledge project: The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs (8/10)
+  Manager Tools: Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness - Part 2 (9/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-08-04</title>
       <description>Covering 2 episodes:
   Hidden Brain: Making the Most of Your Mistakes (8/10)
@@ -675,16 +687,6 @@
       <itunes:duration>244</itunes:duration>
       <itunes:summary>Covering 1 episodes:
   Refactoring Podcast: How to Own Your Career 🦝 — with Jean Hsu and Cate Huston (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-04-29</title>
-      <description>Covering 1 episodes:
-  HBR Ideacast: Why Your Team Won’t Speak Up (And How to Fix It) (9/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-29/briefing-2026-04-29.mp3" length="1276848" type="audio/mpeg"/>
-      <pubDate>Wed, 29 Apr 2026 09:36:00 +0000</pubDate>
-      <itunes:duration>212</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  HBR Ideacast: Why Your Team Won’t Speak Up (And How to Fix It) (9/10)</itunes:summary>
     </item>
   </channel>
 </rss>

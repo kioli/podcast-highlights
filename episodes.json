@@ -1,5 +1,27 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-08-05",
+    "description": "Covering 2 episodes:\n  The knowledge project: The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs (8/10)\n  Manager Tools: Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness - Part 2 (9/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-05/briefing-2026-08-05.mp3",
+    "audio_size": 1987200,
+    "pub_date": "Wed, 05 Aug 2026 11:02:27 +0000",
+    "duration_seconds": 331.2,
+    "date": "2026-08-05",
+    "episode_count": 2,
+    "episodes": [
+      {
+        "title": "The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs",
+        "podcast": "The knowledge project",
+        "relevance_score": 8
+      },
+      {
+        "title": "Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness - Part 2",
+        "podcast": "Manager Tools",
+        "relevance_score": 9
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-08-04",
     "description": "Covering 2 episodes:\n  Hidden Brain: Making the Most of Your Mistakes (8/10)\n  The Peter Attia Drive: #402 \u2012 NMR blood analysis: how heart disease risk, insulin resistance, inflammation, and mortality risk can be assessed from a single blood sample | Jim Otvos, Ph.D. (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-04/briefing-2026-08-04.mp3",
@@ -1189,23 +1211,6 @@
         "title": "How to Own Your Career \ud83e\udd9d \u2014 with Jean Hsu and Cate Huston",
         "podcast": "Refactoring Podcast",
         "relevance_score": 8
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-04-29",
-    "description": "Covering 1 episodes:\n  HBR Ideacast: Why Your Team Won\u2019t Speak Up (And How to Fix It) (9/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-04-29/briefing-2026-04-29.mp3",
-    "audio_size": 1276848,
-    "pub_date": "Wed, 29 Apr 2026 09:36:00 +0000",
-    "duration_seconds": 212.808,
-    "date": "2026-04-29",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "title": "Why Your Team Won\u2019t Speak Up (And How to Fix It)",
-        "podcast": "HBR Ideacast",
-        "relevance_score": 9
       }
     ]
   }
