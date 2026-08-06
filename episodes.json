@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-08-06",
+    "description": "Covering 1 episodes:\n  HBR Ideacast: Why Great Turnarounds Start with Culture, Not Strategy (6/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-06/briefing-2026-08-06.mp3",
+    "audio_size": 1247616,
+    "pub_date": "Thu, 06 Aug 2026 10:05:39 +0000",
+    "duration_seconds": 207.936,
+    "date": "2026-08-06",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "Why Great Turnarounds Start with Culture, Not Strategy",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 6
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-08-05",
     "description": "Covering 2 episodes:\n  The knowledge project: The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs (8/10)\n  Manager Tools: Your Job Includes Teaching Professionalism - Chapter 1 - Timeliness - Part 2 (9/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-05/briefing-2026-08-05.mp3",
@@ -1194,23 +1211,6 @@
         "title": "Scott Galloway: AI Wasn\u2019t Built For You. The Rich Don\u2019t Need You Anymore!",
         "podcast": "The Diary Of A CEO",
         "relevance_score": 6
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-05-02",
-    "description": "Covering 1 episodes:\n  Refactoring Podcast: How to Own Your Career \ud83e\udd9d \u2014 with Jean Hsu and Cate Huston (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-02/briefing-2026-05-02.mp3",
-    "audio_size": 1468512,
-    "pub_date": "Sat, 02 May 2026 09:00:37 +0000",
-    "duration_seconds": 244.752,
-    "date": "2026-05-02",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "title": "How to Own Your Career \ud83e\udd9d \u2014 with Jean Hsu and Cate Huston",
-        "podcast": "Refactoring Podcast",
-        "relevance_score": 8
       }
     ]
   }

@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-08-06</title>
+      <description>Covering 1 episodes:
+  HBR Ideacast: Why Great Turnarounds Start with Culture, Not Strategy (6/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-06/briefing-2026-08-06.mp3" length="1247616" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Aug 2026 10:05:39 +0000</pubDate>
+      <itunes:duration>207</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  HBR Ideacast: Why Great Turnarounds Start with Culture, Not Strategy (6/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-08-05</title>
       <description>Covering 2 episodes:
   The knowledge project: The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs (8/10)
@@ -677,16 +687,6 @@
       <itunes:duration>186</itunes:duration>
       <itunes:summary>Covering 1 episodes:
   The Diary Of A CEO: Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore! (6/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-05-02</title>
-      <description>Covering 1 episodes:
-  Refactoring Podcast: How to Own Your Career 🦝 — with Jean Hsu and Cate Huston (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-02/briefing-2026-05-02.mp3" length="1468512" type="audio/mpeg"/>
-      <pubDate>Sat, 02 May 2026 09:00:37 +0000</pubDate>
-      <itunes:duration>244</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  Refactoring Podcast: How to Own Your Career 🦝 — with Jean Hsu and Cate Huston (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>
