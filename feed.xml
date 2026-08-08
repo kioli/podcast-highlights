@@ -11,6 +11,18 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-08-08</title>
+      <description>Covering 2 episodes:
+  The Diary Of A CEO: Most Replayed Moment: Alzheimer&apos;s Starts 20 Years Before Symptoms! How To Protect Your Brain Now (8/10)
+  Refactoring Podcast: Building With Agents Today 🤖 — with Charlie Guo (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-08/briefing-2026-08-08.mp3" length="1543680" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Aug 2026 08:45:52 +0000</pubDate>
+      <itunes:duration>257</itunes:duration>
+      <itunes:summary>Covering 2 episodes:
+  The Diary Of A CEO: Most Replayed Moment: Alzheimer&apos;s Starts 20 Years Before Symptoms! How To Protect Your Brain Now (8/10)
+  Refactoring Podcast: Building With Agents Today 🤖 — with Charlie Guo (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-08-06</title>
       <description>Covering 1 episodes:
   HBR Ideacast: Why Great Turnarounds Start with Culture, Not Strategy (6/10)</description>
@@ -677,16 +689,6 @@
   Manager Tools: Top 10 Hiring Mistakes - #6 - The Warm Body Problem (8/10)
   Hidden Brain: Radical Acceptance (8/10)
   The Peter Attia Drive: #390 ‒ AMA #84: Family health history, preventing heart disease, metabolic health, strength training efficiency, dementia risk reduction, NAD supplements, and hydration (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-05-04</title>
-      <description>Covering 1 episodes:
-  The Diary Of A CEO: Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore! (6/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-04/briefing-2026-05-04.mp3" length="1121472" type="audio/mpeg"/>
-      <pubDate>Mon, 04 May 2026 10:57:29 +0000</pubDate>
-      <itunes:duration>186</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  The Diary Of A CEO: Scott Galloway: AI Wasn’t Built For You. The Rich Don’t Need You Anymore! (6/10)</itunes:summary>
     </item>
   </channel>
 </rss>
