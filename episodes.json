@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-08-12",
+    "description": "Covering 1 episodes:\n  HBR Ideacast: The Innovation Strategy Most Companies Miss (6/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-12/briefing-2026-08-12.mp3",
+    "audio_size": 1338192,
+    "pub_date": "Wed, 12 Aug 2026 08:41:03 +0000",
+    "duration_seconds": 223.032,
+    "date": "2026-08-12",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "The Innovation Strategy Most Companies Miss",
+        "podcast": "HBR Ideacast",
+        "relevance_score": 6
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-08-11",
     "description": "Covering 4 episodes:\n  The Diary Of A CEO: The Quitting Expert: Sunk Costs Are Keeping You TRAPPED, Quit Before AI Comes! | Seth Godin (8/10)\n  Manager Tools: Coaching a Direct On Relationship Development - Part 1 (8/10)\n  Hidden Brain: How Feelings Make Us Smarter (8/10)\n  The Peter Attia Drive: #403 \u2012 Peptides: separating scientific promise from marketing hype (8/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-11/briefing-2026-08-11.mp3",
@@ -1199,23 +1216,6 @@
         "title": "Pulitzer Prize Historian: You Won't Notice Until It's Too Late!",
         "podcast": "The Diary Of A CEO",
         "relevance_score": 8
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-05-10",
-    "description": "Covering 1 episodes:\n  The Diary Of A CEO: Most Replayed Moment: This Is The Best Exercise Protocol For Women! (6/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-10/briefing-2026-05-10.mp3",
-    "audio_size": 1262016,
-    "pub_date": "Sun, 10 May 2026 09:19:37 +0000",
-    "duration_seconds": 210.336,
-    "date": "2026-05-10",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "title": "Most Replayed Moment: This Is The Best Exercise Protocol For Women!",
-        "podcast": "The Diary Of A CEO",
-        "relevance_score": 6
       }
     ]
   }
