@@ -1,5 +1,22 @@
 [
   {
+    "title": "Daily Briefing \u2014 2026-08-14",
+    "description": "Covering 1 episodes:\n  The Diary Of A CEO: Fat Loss Scientist: It\u2019s Easy To Lose Weight, But Here\u2019s Why You WON\u2019T Do It! | Dr Andy Galpin (8/10)",
+    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-14/briefing-2026-08-14.mp3",
+    "audio_size": 1306800,
+    "pub_date": "Fri, 14 Aug 2026 09:44:03 +0000",
+    "duration_seconds": 217.8,
+    "date": "2026-08-14",
+    "episode_count": 1,
+    "episodes": [
+      {
+        "title": "Fat Loss Scientist: It\u2019s Easy To Lose Weight, But Here\u2019s Why You WON\u2019T Do It! | Dr Andy Galpin",
+        "podcast": "The Diary Of A CEO",
+        "relevance_score": 8
+      }
+    ]
+  },
+  {
     "title": "Daily Briefing \u2014 2026-08-12",
     "description": "Covering 1 episodes:\n  HBR Ideacast: The Innovation Strategy Most Companies Miss (6/10)",
     "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-12/briefing-2026-08-12.mp3",
@@ -1198,23 +1215,6 @@
       {
         "title": "The Cowboy Philosopher",
         "podcast": "Hidden Brain",
-        "relevance_score": 8
-      }
-    ]
-  },
-  {
-    "title": "Daily Briefing \u2014 2026-05-11",
-    "description": "Covering 1 episodes:\n  The Diary Of A CEO: Pulitzer Prize Historian: You Won't Notice Until It's Too Late! (8/10)",
-    "audio_url": "https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-11/briefing-2026-05-11.mp3",
-    "audio_size": 1595232,
-    "pub_date": "Mon, 11 May 2026 11:47:35 +0000",
-    "duration_seconds": 265.872,
-    "date": "2026-05-11",
-    "episode_count": 1,
-    "episodes": [
-      {
-        "title": "Pulitzer Prize Historian: You Won't Notice Until It's Too Late!",
-        "podcast": "The Diary Of A CEO",
         "relevance_score": 8
       }
     ]

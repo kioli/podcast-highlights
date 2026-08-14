@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-08-14</title>
+      <description>Covering 1 episodes:
+  The Diary Of A CEO: Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin (8/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-14/briefing-2026-08-14.mp3" length="1306800" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Aug 2026 09:44:03 +0000</pubDate>
+      <itunes:duration>217</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The Diary Of A CEO: Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin (8/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-08-12</title>
       <description>Covering 1 episodes:
   HBR Ideacast: The Innovation Strategy Most Companies Miss (6/10)</description>
@@ -679,16 +689,6 @@
       <itunes:duration>234</itunes:duration>
       <itunes:summary>Covering 1 episodes:
   Hidden Brain: The Cowboy Philosopher (8/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-05-11</title>
-      <description>Covering 1 episodes:
-  The Diary Of A CEO: Pulitzer Prize Historian: You Won&apos;t Notice Until It&apos;s Too Late! (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-11/briefing-2026-05-11.mp3" length="1595232" type="audio/mpeg"/>
-      <pubDate>Mon, 11 May 2026 11:47:35 +0000</pubDate>
-      <itunes:duration>265</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  The Diary Of A CEO: Pulitzer Prize Historian: You Won&apos;t Notice Until It&apos;s Too Late! (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>
