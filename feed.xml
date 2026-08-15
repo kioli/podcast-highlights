@@ -11,6 +11,16 @@
     <itunes:explicit>false</itunes:explicit>
     <link>https://kioli.github.io/podcast-highlights/</link>
     <item>
+      <title>Daily Briefing — 2026-08-15</title>
+      <description>Covering 1 episodes:
+  The Diary Of A CEO: Most Replayed Moment: Fear Is A Skill You Can Train! Lessons From The World&apos;s Greatest Climber (6/10)</description>
+      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-08-15/briefing-2026-08-15.mp3" length="1390752" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Aug 2026 07:55:40 +0000</pubDate>
+      <itunes:duration>231</itunes:duration>
+      <itunes:summary>Covering 1 episodes:
+  The Diary Of A CEO: Most Replayed Moment: Fear Is A Skill You Can Train! Lessons From The World&apos;s Greatest Climber (6/10)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Briefing — 2026-08-14</title>
       <description>Covering 1 episodes:
   The Diary Of A CEO: Fat Loss Scientist: It’s Easy To Lose Weight, But Here’s Why You WON’T Do It! | Dr Andy Galpin (8/10)</description>
@@ -679,16 +689,6 @@
       <itunes:summary>Covering 2 episodes:
   HBR Ideacast: The Leadership Skills That Make Transformation Stick (9/10)
   The knowledge project: Winston Weinberg: Speed, Stress, and Better Decisions (9/10)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Briefing — 2026-05-12</title>
-      <description>Covering 1 episodes:
-  Hidden Brain: The Cowboy Philosopher (8/10)</description>
-      <enclosure url="https://github.com/kioli/podcast-highlights/releases/download/briefing-2026-05-12/briefing-2026-05-12.mp3" length="1404864" type="audio/mpeg"/>
-      <pubDate>Tue, 12 May 2026 10:34:00 +0000</pubDate>
-      <itunes:duration>234</itunes:duration>
-      <itunes:summary>Covering 1 episodes:
-  Hidden Brain: The Cowboy Philosopher (8/10)</itunes:summary>
     </item>
   </channel>
 </rss>
